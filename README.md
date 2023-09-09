@@ -1,9 +1,5 @@
-# R2Boilerplate
+# RoR2Vietnamese
 
-This repository contains a sample mod for Risk of Rain 2.
+This repository contains the code for the RoR2Vietnamese mod.
 
-You can clone this repository, open the visual studio solution file and compile it immediately.
-
-This repository is meant to represent best practices for starting a simple mod.
-
-Once your mod get compiled, you can utilize the Thunderstore folder for later uploading it to https://thunderstore.io/c/riskofrain2/
+Refer to the README.md in [Thunderstore folder](https://github.com/helscarthe/RoR2Vietnamese/tree/main/Thunderstore) to read more about the mod.
