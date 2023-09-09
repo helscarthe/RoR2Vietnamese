@@ -1,0 +1,4 @@
+credits.json
+EOS.json
+credits_roles.json
+Every Lore in Items.json, Equipment.json and CharacterBody.json

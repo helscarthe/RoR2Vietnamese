@@ -1,0 +1,331 @@
+{
+	strings:
+	{
+
+	"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "Rời Buồng Thoát Khẩn Cấp",
+	"SURVIVOR_POD_OPEN_PANEL_CONTEXT" : "Mở Tấm Lưng",
+	"TELEPORTER_NAME": "Máy Dịch Chuyển",
+	"TELEPORTER_BEGIN_CONTEXT": "Kích hoạt Máy Dịch Chuyển..?",
+	"TELEPORTER_END_CONTEXT": "Sử dụng Máy Dịch Chuyển",
+
+	"BARREL1_NAME": "Ống nhựa",
+	"BARREL1_CONTEXT": "Mở ống nhựa",
+
+	"DUMMYINTERACTION_NAME": "???",
+	"DUMMYINTERACTION_CONTEXT": "???",
+	
+	"LOCKBOX_NAME": "Hộp Khóa Rỉ Sét",
+	"LOCKBOX_CONTEXT": "Mở Hộp Khóa Rỉ Sét",
+
+	"LOCKBOXVOID_NAME": "Hộp Khóa Dị Biến",
+	"LOCKBOXVOID_CONTEXT": "Mở Hộp Khóa Dị Biến",
+	
+	"EQUIPMENTBARREL_NAME": "Ống Trang Bị",
+	"EQUIPMENTBARREL_CONTEXT": "Mở ống trang bị",
+
+
+
+	"OLDCHEST_NAME": "Rương Cũ",
+	"OLDCHEST_CONTEXT": "",
+
+	"CHEST1_NAME": "Rương",
+	"CHEST1_CONTEXT": "Mở rương",
+
+	"CHEST1_STEALTHED_NAME": "Rương Tàng Hình",
+	"CHEST1_STEALTHED_CONTEXT": "Mở rương tàng hình",
+
+	"CHEST2_NAME": "Rương Lớn",
+	"CHEST2_CONTEXT": "Mở rương lớn",
+
+	"GOLDCHEST_NAME": "Rương Huyền Thoại",
+	"GOLDCHEST_CONTEXT": "Mở Rương Huyền Thoại",
+
+	"TIMEDCHEST_NAME": "Rương Bảo Mật Tính Giờ",
+	"TIMEDCHEST_CONTEXT": "Mở Rương Bảo Mật Tính Giờ",
+
+	"RADIOTOWER_NAME" : "Máy Quét Radio",
+	"RADIOTOWER_CONTEXT" : "Tải thông tin môi trường",
+
+	"MULTISHOP_TERMINAL_NAME": "Quầy Đa Vật Phẩm",
+	"MULTISHOP_TERMINAL_CONTEXT": "Mở quầy",
+
+	"FAN_NAME": "Quạt",
+	"FAN_CONTEXT": "Sửa quạt",
+
+	"DUPLICATOR_NAME": "Máy In 3D",
+	"DUPLICATOR_CONTEXT": "Dùng Máy In 3D",
+
+	"DUPLICATOR_MILITARY_NAME": "Máy In Quân Sự",
+	"DUPLICATOR_MILITARY_CONTEXT": "Dùng Máy In Quân Sự",
+	"DUPLICATOR_WILD_NAME": "Máy In 3D Bám Rêu",
+	"DUPLICATOR_WILD_CONTEXT": "Dùng Máy In 3D Bám Rêu",
+
+	"CASINOCHEST_NAME": "Rương Linh Hoạt",
+	"CASINOCHEST_CONTEXT": "Mở Rương Linh Hoạt",
+
+
+
+	"LUNAR_CHEST_NAME" : "Nguyệt Hoa",
+	"LUNAR_CHEST_CONTEXT" : "Mở Nguyệt Hoa",
+
+	"LUNAR_TERMINAL_NAME" : "Nguyệt Chồi",
+	"LUNAR_TERMINAL_CONTEXT" : "Mở Nguyệt Chồi",
+
+	"LUNAR_REROLL_NAME" : "Phiến Đá",
+	"LUNAR_REROLL_CONTEXT" : "Làm mới quầy",
+
+	"BAZAAR_UPGRADE_LUNAR_NAME" : "Slab",
+	"BAZAAR_UPGRADE_LUNAR_CONTEXT" : "Permanently upgrade Item Shop",
+
+	"BAZAAR_BLUEPRINT_NAME" : "Strange Display",
+	"BAZAAR_BLUEPRINT_CONTEXT" : "Permanently Unlock",
+
+	"BAZAAR_UPGRADE_DRONE_NAME" : "Slab",
+	"BAZAAR_UPGRADE_DRONE_CONTEXT" : "Permanently upgrade Drone Shop",
+
+	"BAZAAR_CAULDRON_NAME" : "Vạc",
+	"BAZAAR_CAULDRON_CONTEXT" : "Rèn lại",
+
+	"NEWT_STATUE_NAME" : "Miếu Newt",
+	"NEWT_STATUE_CONTEXT" : "Quyên góp cho miếu Newt",
+
+	"MSOBELISK_NAME" : "Tháp Đá",
+	"MSOBELISK_CONTEXT" : "Hủy diệt bản thân khỏi thế giới này",
+	"MSOBELISK_CONTEXT_CONFIRMATION" : "Bạn chắc chưa?",
+
+	"CATEGORYCHEST_HEALING_NAME": "Rương - Hồi phục",
+	"CATEGORYCHEST_HEALING_CONTEXT": "Mở Rương - Hồi phục",
+
+	"CATEGORYCHEST_DAMAGE_NAME": "Rương - Sát thương",
+	"CATEGORYCHEST_DAMAGE_CONTEXT": "Mở Rương - Sát thương",
+
+	"CATEGORYCHEST_UTILITY_NAME": "Rương - Hỗ trợ",
+	"CATEGORYCHEST_UTILITY_CONTEXT": "Mở Rương - Hỗ trợ",
+
+
+
+	"SHRINE_HEALING_NAME": "Tượng Thảo Mộc",
+	"SHRINE_HEALING_CONTEXT": "Dâng lễ cho Tượng Thảo Mộc",
+	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>Bạn được phù hộ bởi hơi ấm hồi phục của Rừng Thảo Mộc.</color>",
+	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} được phù hộ bởi hơi ấm hồi phục của Rừng Thảo Mộc.</color>",
+	
+	"SHRINE_BLOOD_NAME": "Tượng Huyết Tế",
+	"SHRINE_BLOOD_CONTEXT": "Dâng lễ cho Tượng Huyết Tế",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>Bạn cảm thấy một cơn đau quằn quại. Bạn nhận được {1} vàng.</color>",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} cảm thấy một cơn đau quằn quại, và nhận được {1} vàng.</color>",
+
+	"SHRINE_CHANCE_NAME": "Tượng May Rủi",
+	"SHRINE_CHANCE_CONTEXT": "Dâng lễ cho Tượng May Rủi",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>Bạn dâng lễ cho tượng và được thưởng!</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} dâng lễ cho tượng và được thưởng!</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>Bạn dâng lễ cho tượng, nhưng chẳng được gì.</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} dâng lễ cho tượng và chẳng được gì.</color>",
+
+	"SHRINE_BOSS_NAME": "Tượng Thần Núi",
+	"SHRINE_BOSS_CONTEXT": "Cầu nguyện cho Thần Núi",
+	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>Bạn đã chấp nhận thử thách của Thần Núi..</color>",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} đã chấp nhận thử thách của Thần Núi..</color>",
+	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>Hãy để thử thách của Thần Núi... bắt đầu!</style>",
+	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>Lòng can đảm của bạn xứng đáng nhận thưởng!</style>",
+
+	"VOID_SUPPRESSOR_NAME": "Void Eradicator",
+	"VOID_SUPPRESSOR_CONTEXT": "Eradicate items",
+	"VOID_SUPPRESSOR_USE_MESSAGE_2P": "<style=cShrine>You eradicated {1} from the universe.",
+	"VOID_SUPPRESSOR_USE_MESSAGE": "<style=cShrine>{0} eradicated {1} from the universe.",
+	"VOID_SUPPRESSOR_FAKE_NAME": "Newt Altar?",
+	"VOID_SUPPRESSOR_FAKE_CONTEXT" : "Donate to Newt Altar?",
+
+	"SHRINE_RESTACK_NAME": "Tượng Quy Củ",
+	"SHRINE_RESTACK_CONTEXT": "Dâng lễ cho Tượng Quy Củ",
+	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>Bạn đã được... sắp xếp lại.</color>",
+	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} được... sắp xếp lại.</color>",
+
+	"SHRINE_GOLDSHORES_NAME": "Tượng Dát Vàng",
+	"SHRINE_GOLDSHORES_CONTEXT": "Dâng lễ cho Tượng Dát Vàng",
+
+	"SHRINE_COMBAT_NAME": "Tượng Chiến Đấu",
+	"SHRINE_COMBAT_CONTEXT": "Cầu nguyện ở Tượng Chiến Đấu",
+	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>Bạn đã triệu hồi trận chiến với {1}.</color>",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} đã triệu hồi trận chiến với {1}.</color>",
+
+	"SHRINE_PROTECTION_NAME": "Shrine of Warding",
+	"SHRINE_PROTECTION_CONTEXT": "Pray to Shrine of Warding",
+	"SHRINE_PROTECTION_USE_MESSAGE_2P": "<style=cShrine>You feel safe.</color>",
+	"SHRINE_PROTECTION_USE_MESSAGE": "<style=cShrine>{0} feels safe.</color>",
+
+	"SHRINE_CLEANSE_NAME": "Chậu Rửa Tội",
+	"SHRINE_CLEANSE_CONTEXT": "Dùng Chậu Rửa Tội",
+	"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>Bạn đã gột rửa {1}.</color>",
+	"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} đã gột rửa {1}.</color>",
+
+	"GOLDTOTEM_NAME": "Cột Thanh Bình",
+	"GOLDTOTEM_CONTEXT": "Sửa Cột Thanh Bình",
+
+	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] {1} đã được thả ra khỏi Buồng Giam..!</style>",
+	"ARENA_ADD_ITEM" : "<style=cWorldEvent>[WARNING] {1} đã được tích hợp vào Buồng Giam...!</style>",
+	"ARENA_END" : "<style=cWorldEvent>Buồng Giam tái ổn định.</style>",
+	"NULL_WARD_NAME" : "Nút Thoát Buồng Giam",
+	"NULL_WARD_CONTEXT" : "Mở Nút Thoát Buồng Giam",
+
+
+
+	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
+	"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
+
+	"MOON_BATTERY_SOUL_NAME" : "Trụ Linh Hồn",
+	"MOON_BATTERY_SOUL_CONTEXT" : "Kích hoạt Trụ",
+
+	"MOON_BATTERY_BLOOD_NAME" : "Trụ Sinh Huyết",
+	"MOON_BATTERY_BLOOD_CONTEXT" : "Kích hoạt Trụ",
+
+	"MOON_BATTERY_DESIGN_NAME" : "Trụ Thiết Kế",
+	"MOON_BATTERY_DESIGN_CONTEXT" : "Kích hoạt Trụ",
+
+	"MOON_BATTERY_MASS_NAME" : "Trụ Vật Chất",
+	"MOON_BATTERY_MASS_CONTEXT" : "Kích hoạt Trụ",
+
+	"VENDING_MACHINE_NAME" : "Máy Bán Hàng Tự Động Eclipse Zero",
+	"VENDING_MACHINE_CONTEXT" : "Mua Chai nước ngọt sảng khoái",
+
+	"LOCKEDMAGE_NAME" : "Survivor",
+	"LOCKEDMAGE_CONTEXT" : "Giải phóng cho survivor",
+		
+	"LOCKEDTREEBOT_NAME" : "Rô Bốt Hỏng",
+	"LOCKEDTREEBOT_CONTEXT" : "Sửa",
+
+	"SCAVBACKPACK_NAME" : "Túi của Kẻ Trữ Rác",
+	"SCAVBACKPACK_CONTEXT" : "Mở Túi của Kẻ Trữ Rác",
+
+
+
+	"DRONE_GUNNER_INTERACTABLE_NAME": "Drone Bắn Súng bị hỏng",
+	"DRONE_GUNNER_CONTEXT": "Sửa Drone Bắn Súng",
+
+	"DRONE_MEGA_INTERACTABLE_NAME": "TC-280 bị hỏng",
+	"DRONE_MEGA_CONTEXT": "Repair ???",
+
+	"DRONE_HEALING_INTERACTABLE_NAME": "Drone Hồi Phục bị hỏng",
+	"DRONE_HEALING_CONTEXT": "Sửa Drone Hồi Phục",
+
+	"DRONE_MISSILE_INTERACTABLE_NAME": "Drone Tên Lửa bị hỏng",
+	"DRONE_MISSILE_CONTEXT": "Sửa Drone Tên Lửa",
+
+	"EQUIPMENTDRONE_INTERACTABLE_NAME" : "Drone Trang Bị bị hỏng",
+	"EQUIPMENTDRONE_CONTEXT" : "Sửa Drone Trang Bị",
+
+	"FLAMEDRONE_INTERACTABLE_NAME" : "Drone Phóng Hỏa bị hỏng",
+	"FLAMEDRONE_CONTEXT" : "Sửa Drone Phóng Hỏa",
+
+	"EMERGENCYDRONE_INTERACTABLE_NAME" : "Drone Cấp Cứu bị hỏng",
+	"EMERGENCYDRONE_CONTEXT" : "Sửa Drone Cấp Cứu",
+
+
+
+
+	"TURRET1_INTERACTABLE_NAME": "Trụ Bắn Súng bị hỏng",
+	"TURRET1_CONTEXT": "Sửa Trụ Bắn Súng",
+
+	"PORTAL_SHOP_NAME" : "Cổng Xanh Lam",
+	"PORTAL_SHOP_CONTEXT": "Vào Cổng Xanh Lam",
+	"PORTAL_GOLDSHORES_NAME" : "Cổng Hoàng Kim",
+	"PORTAL_GOLDSHORES_CONTEXT": "Vào Cổng Hoàng Kim",
+	"PORTAL_MYSTERYSPACE_NAME" : "Cổng Thiên Tinh",
+	"PORTAL_MYSTERYSPACE_CONTEXT": "Vào Cổng Thiên Tinh",
+	"PORTAL_ARENA_NAME" : "Cổng Hư Điểm",
+	"PORTAL_ARENA_CONTEXT" : "Vào Cổng Hư Điểm",
+	"PORTAL_ARTIFACTWORLD_NAME" : "Cổng Cổ Vật",
+	"PORTAL_ARTIFACTWORLD_CONTEXT" : "Vào Cổng Cổ Vật",
+	"PORTAL_GENERIC_CONTEXT": "Vào Cổng",
+	"ZIPLINE_ENTER_CONTEXT" : "Vào Hầm Lượng Tử",
+	"ZIPLINE_EXIT_CONTEXT" : "Vào Hầm Lượng Tử",
+
+	"PICKUP_LUNAR_COIN": "Nguyệt Xu",
+	"LUNAR_COIN_PICKUP_CONTEXT": "Nhặt Nguyệt Xu",
+	
+	"COST_NONE_FORMAT": "",
+	"COST_MONEY_FORMAT": "${0}",
+	"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
+	"COST_LUNARCOIN_FORMAT": " <sprite name=\"LunarCoin\" tint=1>{0}",
+	"COST_ITEM_FORMAT": "{0} Vật phẩm",
+	"COST_LUNAR_FORMAT": "{0} Nguyệt Phẩm",
+	"COST_EQUIPMENT_FORMAT": "{0} Trang bị",
+	"COST_VOLATILEBATTERY_FORMAT": "{0} Ắc Quy Nhiên Liệu",
+	"COST_ARTIFACTSHELLKILLERITEM_FORMAT" : "{0} Chìa Khóa Cổ Vật",
+	"COST_TREASURECACHEITEM_FORMAT": "{0} Chìa Khóa Rỉ Sét",
+	"COST_TREASURECACHEVOIDITEM_FORMAT": "{0} Chìa Khóa Dị Biến",
+	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "Kích nổ",
+
+	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "Cổ Vật Chưa Biết",
+	"ARTIFACT_TRIAL_CONTROLLER_CONTEXT" : "Kích hoạt Cổ Vật Chưa Biết...?",
+
+	"PORTAL_DIALER_NAME" : "Máy Tạo Hình Khối",
+	"PORTAL_DIALER_CONTEXT" : "Đổi Hình Khối",
+
+	"PORTAL_DIALER_LAPTOP_NAME" : "Laptop",
+	"PORTAL_DIALER_LAPTOP_CONTEXT" : "Nhập Công thức",
+
+	"LUNAR_TELEPORTER_NAME": "Máy Dịch Chuyển Khai Nguyên",
+	"LUNAR_TELEPORTER_SHIFT" : "Đổi Điểm đến",
+	"LUNAR_TELEPORTER_BEGIN_CONTEXT": "Kích hoạt Máy Dịch Chuyển Khai Nguyên..?",
+	"LUNAR_TELEPORTER_END_CONTEXT": "Dùng Máy Dịch Chuyển Khai Nguyên",
+
+	"SCRAPPER_NAME" : "Máy Nghiền",
+	"SCRAPPER_CONTEXT" : "Nghiền vật phẩm",
+	"SCRAPPER_POPUP_TEXT" : "<b>Máy Nghiền V1-4</b>\n<i><style=cSub><size=75%>Biến bất kỳ thứ gì thành Phế Liệu để tái chế!</size></style></i>",
+
+	"DROPSHIP_NAME" : "Tàu Hạ Cánh UES",
+	"DROPSHIP_CONTEXT" : "Trốn thoát",
+
+	"MOON_ELEVATOR_NAME" : "Bệ Phóng",
+	"MOON_ELEVATOR_CONTEXT" : "Kích hoạt bệ phóng",
+
+	"VOIDLOCKBOX_NAME": "Hộp Khóa Dị Biến",
+	"VOIDLOCKBOX_CONTEXT": "Mở Hộp Khóa Dị Biến",
+
+	"VOID_CHEST_NAME" : "Nôi Hư Không",
+	"VOID_CHEST_CONTEXT" : "Mở Nôi Hư Không",
+
+	"VOID_TRIPLE_NAME" : "Tiềm Lực Hư Không",
+	"VOID_TRIPLE_CONTEXT" : "Giải phóng Tiềm Lực Hư Không",
+
+	"OPTION_PICKUP_INTERACTION_PROMPT" : "Kích hoạt Tiềm Lực Hư Không",
+	"OPTION_PICKUP_UNKNOWN_NAME" : "Tiềm Lực Hư Không",
+	"OPTION_PICKUP_HEADER" : "Đổ sập các vector tiềm tàng...",
+
+	"PICKUP_VOID_COIN": "Void Marker",
+	"VOID_COIN_PICKUP_CONTEXT": "Pick up Void Marker",
+	"COST_VOIDCOIN_FORMAT":" <sprite name=\"VoidCoin\" tint=1>{0}",
+
+	"PORTAL_VOID_NAME" : "Cổng Hư Không",
+	"PORTAL_VOID_CONTEXT": "Vào Cổng Hư Không",
+
+	"VOIDCOINBARREL_NAME": "Mầm",
+	"VOIDCOINBARREL_CONTEXT": "Đập vỡ ra nào!",
+
+	"FROG_NAME": "Ếch",
+	"FROG_CONTEXT": "Xoa đầu ếch",
+
+	"DEEPVOIDBATTERY_NAME" : "Tín Hiệu Thâm Không",
+	"DEEPVOIDBATTERY_CONTEXT" : "Kích hoạt Tín Hiệu Thâm Không",
+
+	"PORTAL_DEEPVOID_NAME" : "Cổng Hư Không Sâu Thẳm",
+	"PORTAL_DEEPVOID_CONTEXT": "Vào Cổng Hư Không Sâu Thẳm",
+
+	"PORTAL_VOIDOUTRO_NAME" : "Cổng?",
+	"PORTAL_VOIDOUTRO_CONTEXT": "Rời đi",
+
+	"VOIDCAMPCENTER_NAME" : "Hạt Giống Hư Không",
+	"VOIDCAMPCENTER_CONTEXT": "Tắt",
+
+	"VOID_SURVIVOR_POD_HATCH_OPEN_CONTEXT":"Trèo ra",
+
+	"CATEGORYCHEST2_HEALING_NAME": "Rương Lớn - Hồi phục",
+	"CATEGORYCHEST2_HEALING_CONTEXT": "Mở Rương Lớn - Hồi phục",
+
+	"CATEGORYCHEST2_DAMAGE_NAME": "Rương Lớn - Sát thương",
+	"CATEGORYCHEST2_DAMAGE_CONTEXT": "Mở Rương Lớn - Sát thương",
+
+	"CATEGORYCHEST2_UTILITY_NAME": "Rương Lớn - Hỗ trợ",
+	"CATEGORYCHEST2_UTILITY_CONTEXT": "Mở Rương Lớn - Hỗ trợ",
+	}
+}

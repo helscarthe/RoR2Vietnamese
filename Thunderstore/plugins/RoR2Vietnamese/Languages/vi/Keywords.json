@@ -1,0 +1,22 @@
+{
+    "strings":
+    {
+        "KEYWORD_POISON" : "<style=cKeywordName>Độc Tố</style><style=cSub>Gây sát thương tương đương với <style=cIsDamage>10%</style> sinh lực tối đa của kẻ địch trong 10s. <i>Độc không thể giết kẻ địch.</i></style>",
+        "KEYWORD_RAPID_REGEN" : "<style=cKeywordName>Hồi Phục</style><style=cSub>Hồi phục <style=cIsHealing>5%</style> sinh lực trong vòng 0.5s.</style>",
+        "KEYWORD_AGILE" : "<style=cKeywordName>Nhanh Nhẹn</style><style=cSub>Kỹ năng này có thể sử dụng được khi đang chạy.</style>",
+        "KEYWORD_PERCENT_HP" : "<style=cKeywordName>X% HP</style><style=cSub>Kỹ năng này sẽ sử dụng <style=cIsHealth>X% sinh lực hiện tại của bạn</style>.</style>",
+        "KEYWORD_SONIC_BOOM" : "<style=cKeywordName>Siêu Thanh</style><style=cSub><style=cIsUtility>Đẩy lùi</style> mọi kẻ địch bị dính đòn. <style=cIsUtility>Đẩy lùi chính bản thân</style> nếu bạn đang không chạm đất.</style>",
+        "KEYWORD_WEAK" : "<style=cKeywordName>Suy Yếu</style><style=cSub>Giảm <style=cIsDamage>40%</style> tốc độ di chuyển và sát thương. Giảm <style=cIsDamage>20</style> giáp.</style>",
+        "KEYWORD_HEAVY" : "<style=cKeywordName>Nặng</style><style=cSub>Kỹ năng này có sát thương tỉ lệ thuận với tốc độ hiện tại của bạn.</style>", 
+        "KEYWORD_FREEZING" : "<style=cKeywordName>Đóng Băng</style><style=cSub>Đóng băng kẻ địch tại chỗ. Địch bị đóng băng sẽ bị <style=cIsHealth>kết liễu tức thì</style> nếu chúng dưới <style=cIsHealth>30%</style> sinh lực.</style>",
+        "KEYWORD_STUNNING" : "<style=cKeywordName>Gây Choáng</style><style=cSub>Làm kẻ địch dừng lại và bị choáng.",
+        "KEYWORD_EXPOSE" : "<style=cKeywordName>Vạch Trần</style><style=cSub>Đánh trúng kẻ địch bị Vạch Trần sẽ rút ngắn <style=cIsUtility>1.0s</style> hồi chiêu mọi kỹ năng và gây thêm <style=cIsDamage>+350% sát thương</style>.",
+        "KEYWORD_SHOCKING" : "<style=cKeywordName>Giật Điện</style><style=cSub>Làm kẻ địch dừng lại và bị choáng. Kẻ địch sẽ hết choáng nếu mất hơn <style=cIsHealth>10%</style> sinh lực.",
+		"KEYWORD_SLAYER" : "<style=cKeywordName>Đòn Cuối</style><style=cSub>Sát thương tăng lên đến <style=cIsDamage>3x</style> đối với kẻ địch sắp chết.</style>",
+	    "KEYWORD_SUPERBLEED" : "<style=cKeywordName>Xuất Huyết</style><style=cSub>Gây <style=cIsDamage>2000%</style> sát thương cơ bản trong 15s. <i>Một kẻ địch có thể bị dính Xuất Huyết nhiều lần cùng lúc.</i></style>",
+		"KEYWORD_IGNITE" : "<style=cKeywordName>Thiêu Đốt</style><style=cSub>Gây thêm <style=cIsDamage>+50%</style> sát thương tổng theo thời gian.",
+	    "KEYWORD_WEAKPOINT" : "<style=cKeywordName>Điểm Yếu</style><style=cSub>Hầu hết mọi kẻ địch sẽ có bộ phận bị đánh dấu là <style=cIsDamage>Điểm Yếu</style>. Đánh trúng <style=cIsDamage>Điểm Yếu</style> chắc chắn <style=cIsDamage>Chí mạng</style>.",
+        "KEYWORD_ACTIVERELOAD" : "<style=cKeywordName>Nạp Đạn Thủ Công</style><style=cSub>Tự nạp đạn khẩu súng điện từ của bạn sau khi bắn. <style=cIsDamage>Nạp đạn hoàn hảo</style> sẽ cộng thêm <style=cIsDamage>+500% sát thương</style> cho phát bắn tiếp theo.",
+        "KEYWORD_VOIDCORRUPTION" : "<style=cKeywordName>Biến Dị</style><style=cSub>Tăng điểm Biến Dị bằng cách chịu sát thương, đánh Chí mạng, hoặc sở hữu Vật phẩm Hư Không. Giảm điểm Biến Dị bằng cách hồi phục tức thì.</style>",
+    }
+}

@@ -1,0 +1,21 @@
+{
+	"strings": {
+		"CHARACTER_SELECT_TITLE": "Chọn nhân vật",
+		"CHARACTER_SELECT_SELECT_SURVIVOR": "Chọn một Survivor",
+		"SURVIVOR_OVERVIEW": "Tổng quan",
+		"SURVIVOR_SKILLS": "Kỹ năng"
+		"SURVIVOR_LOADOUT": "Bộ kỹ năng",
+		"CHARACTER_SELECT_READY": "Sẵn sàng",
+		"CHARACTER_SELECT_LOCKED_IN": "Đã khóa nhân vật",
+		
+		"LOADOUT_SKILL_PRIMARY": "Kỹ năng chính",
+		"LOADOUT_SKILL_SECONDARY": "Kỹ năng phụ",
+		"LOADOUT_SKILL_UTILITY": "Kỹ năng hỗ trợ",
+		"LOADOUT_SKILL_SPECIAL": "Kỹ năng đặc biệt",
+		"LOADOUT_SKILL_MISC": "Kỹ năng thêm",
+		"LOADOUT_SKIN": "Trang phục",
+
+		"RANDOM_VOTE_NAME": "Chọn ngẫu nhiên",
+		"RANDOM_VOTE_DESCRIPTION": "Chọn các lựa chọn ngẫu nhiên.",
+	}
+}

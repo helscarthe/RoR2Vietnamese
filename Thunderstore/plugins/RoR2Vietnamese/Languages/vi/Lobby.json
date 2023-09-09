@@ -1,0 +1,9 @@
+{
+	"strings": 
+	{
+		"LOBBY_DEFAULT_NAME_FORMAT": "Phòng của {0}",
+		"LOBBY_CONTROL_PANEL_NAME": "Phòng",
+		"LOBBY_CONTROL_PANEL_LEAVE": "Rời phòng",
+		"LOBBY_CONTROL_PANEL_CREATE": "Tạo phòng"
+	}
+}

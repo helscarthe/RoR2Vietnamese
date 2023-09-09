@@ -1,0 +1,31 @@
+{
+	strings:
+	{
+	"LOGBOOK" : "Sổ thông tin",
+	"LOGBOOK_CATEGORY_ITEMANDEQUIPMENT" : "Vật phẩm & Trang bị",
+	"LOGBOOK_CATEGORY_ITEM" : "Vật phẩm",
+	"LOGBOOK_CATEGORY_EQUIPMENT" : "Trang bị",
+	"LOGBOOK_CATEGORY_ACHIEVEMENTS" : "Thử thách",
+
+	"LOGBOOK_CATEGORY_MONSTER" : "Quái vật",
+	"LOGBOOK_CATEGORY_STAGE" : "Môi trường",
+	"LOGBOOK_CATEGORY_SURVIVOR" : "Survivor",
+	"LOGBOOK_CATEGORY_FRAGMENT" : "Fragment",
+	"LOGBOOK_CATEGORY_STATS": "Thông số hồ sơ",
+	"LOGBOOK_CATEGORY_MORGUE": "Lịch sử chơi",
+
+	"LOGBOOK_UNLOCK_ITEM_LOG" : "Mục này sẽ mở khi bạn tìm thấy vật phẩm này.",
+	"LOGBOOK_UNLOCK_ITEM_MONSTER" : "Đánh bại quái vật này sẽ có cơ hội rơi file mục này.",
+	"LOGBOOK_UNLOCK_ITEM_STAGE" : "Hãy tìm sửa Máy Quét Radio trong màn chơi để mở khóa mục này.",
+	"LOGBOOK_UNLOCK_ITEM_SURVIVOR" : "Thắng game với Survivor này để mở khóa mục này.",
+	"LOGBOOK_UNLOCK_ITEM_FRAGMENT" : "Mục này có cách mở khóa chưa biết rõ.",
+
+	"LOGBOOK_HOVER_DESCRIPTION_FORMAT" : "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+	"LOGBOOK_ZOOMINOUT" : "Di chuyển",
+	"LOGBOOK_ROTATE" : "Xoay",
+	"LOGBOOK_PAN" : "Quay camera",
+
+	"LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_TITLE_FORMAT": "{0}",
+	"LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_BODY_FORMAT": "<nobr>Nhân vật: {0}</nobr>\n<nobr>Chế độ: {1}</nobr>\n<nobr>Kết cục: {2}</nobr>"
+	}
+}

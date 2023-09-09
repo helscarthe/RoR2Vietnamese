@@ -1,0 +1,27 @@
+{
+  "strings":
+  {
+    "STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "Chọn làm Trưởng phòng",
+    "STEAM_COPY_LOBBY" : "Sao chép mã phòng",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY": "Sao chép ID của phòng hiện tại.",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE": "Đã sao chép ID của phòng.",
+    "STEAM_JOIN_LOBBY_ON_CLIPBOARD": "Tham gia phòng đã sao chép",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS": "Đã tham gia phòng bằng ID.",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_FAIL": "ID phòng không hợp lệ.",
+    "STEAM_LOBBY_PUBLIC": "Công khai",
+    "STEAM_LOBBY_PRIVATE": "Riêng tư",
+    "STEAM_LOBBY_FRIENDSONLY": "Chỉ bạn bè",
+    "STEAM_LOBBY_INVISIBLE": "Không hiển thị",
+    "STEAM_LOBBY_STATUS_NOT_IN_LOBBY": "Không ở trong phòng",
+    "STEAM_LOBBY_STATUS_LAUNCHING_QUICKPLAY": "Vào Chế độ Chơi nhanh...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY": "Đang tìm phòng có sẵn...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_BELOW_MINIMUM_PLAYERS": "{0}/{1} đã ở trong phòng. Đang đợi thêm người...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS": "{0}/{1} đã ở trong phòng. Bắt đầu trong: {2}",
+    "STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY": "Không ở trong Hàng đợi Chơi nhanh.",
+    "STEAM_LOBBY_STATUS_CONNECTING_TO_HOST": "Đang kết nối đến máy chủ...",
+    "STEAM_LOBBY_STATUS_STARTING_SERVER": "Đang bắt đầu máy chủ...",
+	"STEAM_LOBBY_STATUS_GAME_STARTING": "Đang bắt đầu game...",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "Lệch Phiên bản",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "Không thể tham gia phòng. Chủ phòng đang sử dụng một bản game mới hơn hoặc cũ hơn bản của bạn.\nCủa bạn={0}\nCủa họ={1}",
+  }
+}

@@ -1,0 +1,221 @@
+{
+	"strings":
+	{
+		"GAME_TITLE": "Spacegame 2017",
+		"DEFAULT_FONT": "TmpFonts/Bombardier/tmpBombDropShadow",
+		
+		"LOREM" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", 
+		"TITLE_PROFILE": "Hồ sơ: {0}",
+		"TITLE_PROFILE_DESC" : "Đổi hồ sơ hoặc tạo hồ sơ mới.",
+		"TITLE_SINGLEPLAYER": "Chơi đơn",
+		"TITLE_SINGLEPLAYER_DESC" : "Bắt đầu game solo.",
+		"TITLE_MULTIPLAYER": "Chơi nhiều người",
+		"TITLE_MULTIPLAYER_DESC" : "Tìm và mời người chơi cùng online.",
+		"TITLE_WEEKLY" : "Thử Thách Lăng Kính",
+		"TITLE_WEEKLY_DESC" : "Tham gia thi đấu thử thách online với các người chơi khác trên cùng một bản đồ cố định.",
+		"TITLE_SETTINGS": "Cài đặt",
+		"TITLE_SETTINGS_DESC" : "Thay đổi phím điều khiển, đồ họa, và các thứ khác.",
+		"TITLE_LOGS": "Sổ thông tin",
+		"TITLE_LOGS_DESC" : "Đọc về câu chuyện của Risk of Rain 2, thông tin nhân vật, và cách mở khóa nội dung mới.",
+		"TITLE_UNLOCKABLES": "Thử thách",
+		"TITLE_MORE": "Âm nhạc & Khác",
+		"TITLE_MORE_DESC" : "Tham gia cộng đồng của chúng tôi, tìm hiểu thêm về game, và các thứ khác!",
+		"TITLE_SIGNUP": "Đăng ký Mail",
+		"TITLE_SIGNUP_DESC": "Đăng ký nhận mail của chúng tôi để đón thông tin mới sớm nhất!",
+		"TITLE_EXIT": "Thoát game",
+		"TITLE_EXIT_DESC" : "Tắt Risk of Rain 2.",
+		"TITLE_EXTRAGAMEMODE" : "Các Chế độ chơi khác",
+		"TITLE_EXTRAGAMEMODE_DESC" : "Chơi những chế độ chơi đặc biệt, như Thử Thách Lăng Kính hoặc Thiên Thực.",
+		"TITLE_ECLIPSE" : "Thiên Thực",
+		"TITLE_ECLIPSE_DESC" : "Chơi chế độ nâng cao, mỗi lần bạn thắng thì game sẽ trở nên khó hơn.",
+		"TITLE_INFINITETOWER" : "Chốn Giả Lập",
+		"TITLE_INFINITETOWER_DESC" : "Chơi chế độ đấu trường đánh quái theo đợt, xảy ra ở trong \ giả lập\  của Hư Không",
+
+		"TITLE_MULTIPLAYER_QUICKPLAY_START": "Tham gia Tìm trận nhanh",
+		"TITLE_MULTIPLAYER_QUICKPLAY_STOP": "Rời Tìm trận nhanh",
+		"TITLE_MULTIPLAYER_HOST": "Bắt đầu Game Riêng tư",
+		"TITLE_MULTIPLAYER_JOIN": "Tham gia ID Phòng",
+		"TITLE_MULTIPLAYER_INVITE": "Mời bạn",
+		"TITLE_MULTIPLAYER_RETURN": "Quay lại",
+		"TITLE_MULTIPLAYER_FIND_GAME": "Tham gia Game có sẵn",
+		"TITLE_MULTIPLAYER_HOST_GAME": "Tạo Game mới",
+		"MORE_MUSIC" : "ÂM NHẠC",
+		"MORE_MUSIC_DESC" : "Chào bạn. Tôi là Chris, người sáng tác các bản nhạc của game này. Bạn có thể biết tên tôi từ Risk of Rain gốc, hoặc bạn gặp tôi ở quán cafe dưới phố. Nói chung thì, tôi đã viết nhạc cho ROR2 được 4 năm rồi và viết nhiều vậy cũng rất vất vả. Nhưng mà đồng thời thì cũng rất thích, vì tôi được viết những bản nhạc tôi vô cùng tự hào. \r\nTôi mong bạn cũng thích những bản nhạc này!\r\n\r\nNếu bạn muốn biết thêm về những tin mới của tôi, bạn có thể theo dõi tôi trên Twitter hoặc Instagram (đều lag @AstronautDown) và tham gia server Discord của chúng tôi!",
+		"MORE_MUSIC_BUTTON" : "ĐI LUÔN!",
+		"MORE_CONTACT" : "LIÊN HỆ",
+		"MORE_CONTACT_DESC" : "Theo dõi chúng tôi trên các mạng xã hội để biết những tin tức mới nhất về Risk of Rain 2!",
+
+		"MORE_LICENSE" : "BẢN QUYỀN",
+		"MORE_LICENSE_DESC" : "Copyright (C) 2012 - 2022 Hopoo Games, LLC. All rights reserved. \r\n\r\nMade with Unity. Unity is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere. All rights reserved. \r\n\r\nPowered by Wwise (C) 2006 - 2022 Audiokinetic Inc. All rights reserved.\r\n\r\nAll other trademarks and registered trademarks are property of their respective owners.",
+
+		"DESC_MULTIPLAYER_QUICKPLAY": "Tự động tìm người chơi muốn tham gia Phòng của bạn.",
+		"DESC_MULTIPLAYER_HOST": "Làm chủ phòng game cho những người chơi cùng mạng với bạn. 1-4 người chơi.",
+		"DESC_MULTIPLAYER_JOIN": "Thử tham gia ID phòng lưu trong phần sao chép của bạn.",
+		"DESC_MULTIPLAYER_INVITE": "Mời bạn bè trong Steam vào Phòng của bạn.",
+
+		"TITLE_WEEKLY_START" : "Chơi Thử Thách Lăng Kính",
+		"WEEKLY_RUN_NO_ENTRY" : "Bạn phải hoàn thành Thử Thách Lăng Kính lần này để xem thời gian của những người chơi khác.",
+		"WEEKLY_RUN_NEXT_CYCLE_COUNTDOWN_FORMAT" : "Thử Thách Lăng Kính - Đổi bản đồ trong {0:00}:{1:00}:{2:00}",
+		"WEEKLY_RUN_DESCRIPTION" :	"<style=cWorldEvent>'Thử Thách Lăng Kính'</style> cho phép bạn thi đấu với những người chơi khác trên bảng xếp hạng tranh thời gian nhanh nhất, trong đó mọi người chơi đều sử dụng cùng một bản đồ như nhau.\n\nĐể vượt qua <style=cWorldEvent>Thử Thách</style>, bạn cần phải phá hủy những <style=cWorldEvent>Pha Lê Thời Gian</style> để hoàn thành hai màn càng nhanh càng tốt.\n\n<style=cStack><i>Những người chơi thuộc top 10% sẽ không được thưởng gì hết... cho đến một lúc nào đó.</i></style>",
+		"WEEKLY_RUN_RANK" : "Hạng",
+		"WEEKLY_RUN_NAME" : "Tên",
+		"WEEKLY_RUN_TIME" : "Thời gian",
+
+		"CHARSELECT_RETURN": "Quay lại",
+		"DIFFICULTY_EASY_NAME": "Mưa Phùn",
+		"DIFFICULTY_EASY_DESCRIPTION": "Giảm độ khó cho những người mới chơi. Cười đùa vui vẻ thay vì đổ lệ và cay cú.<style=cStack>\n\n>Tốc độ hồi phục sinh lực tự nhiên: <style=cIsHealing>+50%</style> \n>Giảm sát thương: <style=cIsHealing>+38%</style> \n>Tốc độ tăng độ khó: <style=cIsHealing>-50%</style></style>",
+
+		"DIFFICULTY_NORMAL_NAME": "Mưa Rào",
+		"DIFFICULTY_NORMAL_DESCRIPTION": "Đây là độ khó chính thức của game! Hãy thử thách kỹ năng của bạn trước những kẻ địch đáng gờm.",
+
+		"DIFFICULTY_HARD_NAME": "Giông Tố",
+		"DIFFICULTY_HARD_DESCRIPTION": "Cho những người chơi hardcore. Mọi ngã rẽ trên hành tinh này đều có khổ đau và chết chóc. Bạn sẽ chết.<style=cStack>\n\n>Tốc độ hồi phục sinh lực tự nhiên: <style=cIsHealth>-40%</style> \n>Tốc độ tăng độ khó: <style=cIsHealth>+50%</style></style>",
+		
+		"USER_PROFILE_DELETE_HEADER": "Xóa Hồ sơ",
+		"USER_PROFILE_DELETE_DESCRIPTION": "Bạn có chắc rằng bạn muốn xóa hồ sơ \"<color=\"orange\">{0}</color>\"? Một khi đã xóa thì hồ sơ sẽ không thể lấy lại nữa, và tất cả mọi thứ bạn đã mở khóa cũng như mọi thông số hay cài đặt trong hồ sơ <style=cDeath>sẽ mất vĩnh viễn</style>.",
+		"USER_PROFILE_DELETE_YES": "Chắc mà!",
+		"USER_PROFILE_DELETE_NO": "Vậy thôi...",
+		
+		"SUBMENU_PROFILE" : "Hồ sơ",
+		"SUBMENU_SELECT" : "Chọn",
+		"SUBMENU_BACK": "Quay lại",
+		"SUBMENU_ACCEPT" : "Chấp nhận",
+		"SUBMENU_SCROLL" : "Lăn",
+		"SUBMENU_DELETE" : "Xóa",
+		"SUBMENU_QUIT" : "Thoát",
+		"SUBMENU_SUBMENU_SELECT" : "Thay đổi",
+
+		"ACHIEVEMENTS_SCREEN_TITLE": "Thử thách",
+		"ACHIEVEMENT_CARD_REWARD_FORMAT": "Phần thưởng: {0}",
+		"ACHIEVEMENT_CARD_PREREQ_FORMAT" : "Cần phải hoàn thành: {0}",
+		"CHAT_KEYBIND_TIP": "Nhấn Enter để nhắn tin.",
+
+		"GAME_RESULT_LOST": "Thua cuộc!",
+		"GAME_RESULT_WON": "Chiến thắng!",
+		"GAME_RESULT_UNKNOWN": "Số Phận Không Rõ..",
+		
+		"UNIDENTIFIED" : "???",
+		"UNIDENTIFIED_DESCRIPTION" : "Bạn chưa đạt yêu cầu mở khóa Thử thách này.",
+		"UNIDENTIFIED_KILLER_NAME" : "Hành Tinh Này",
+		"DESCRIPTION_PREFIX_FORMAT" : "Mô tả:\n{0}",
+		"NOTES_PREFIX_FORMAT" : "Lưu ý:\n<style=cSub><size=80%>{0}</size></style>",
+
+		"GENERIC_PREFIX_FOUND" : "Đã tìm thấy: <style=cEvent>{0}</style>",
+		"GENERIC_PREFIX_WINPERCENTAGE" : "Tỉ lệ thắng: <style=cEvent>{0}%</style>",
+		"BODY_HEALTH_FORMAT" : "Sinh lực tối đa: {0}",
+		"BODY_DAMAGE_FORMAT" : "Sát thương: {0}",
+		"BODY_MOVESPEED_FORMAT" : "Tốc độ: {0} m/s",
+		"BODY_ARMOR_FORMAT" : "Giáp: {0}",
+		"BODY_REGEN_FORMAT" : "Tốc độ hồi phục tự nhiên: {0} hp/s",
+
+		"ITEM_PREFIX_STACKCOUNT" : "Đã cầm nhiều nhất: <style=cEvent>x{0}</style>",
+		"EQUIPMENT_PREFIX_COOLDOWN" : "Hồi chiêu: <style=cIsUtility>{0}s</style>",
+		"EQUIPMENT_PREFIX_USECOUNT" : "Số lần kích hoạt: <style=cEvent>{0}</style>",
+		"EQUIPMENT_PREFIX_TOTALTIMEHELD" : "Tổng thời gian cầm: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_KILLED" : "Đã giết: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_ELITESKILLED" : "Tinh Anh đã giết: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_DEATH" : "Bị giết: <style=cEvent>{0}</style>",
+		
+		"STAGE_PREFIX_TOTALTIMESVISITED" : "Số lần đến: <style=cEvent>{0}</style>",
+		"STAGE_PREFIX_TOTALTIMESCLEARED" : "Số lần hoàn thành: <style=cEvent>{0}</style>",
+		"STAGE_PREFIX_STAGECOMPLETIONPERCENTAGE" : "Tỉ lệ hoàn thành màn chơi: <style=cEvent>{0}%</style>",
+
+		"SURVIVOR_PREFIX_LONGESTRUN" : "Game dài nhất: <style=cEvent>{0}</style>",
+		"SURVIVOR_PREFIX_TIMESPICKED" : "Tổng thời gian chơi: <style=cEvent>{0}</style>",
+		"SURVIVOR_PREFIX_PICKPERCENTAGE" : "Tỉ lệ chọn: <style=cEvent>{0:#00.00}%</style>",
+
+		"BODY_STATS_FORMAT" : "{0} <style=cStack>(+{1} mỗi cấp)</style>",
+		
+		"DIALOG_OPTION_YES" : "Có",
+		"DIALOG_OPTION_NO" : "Không",
+		"OK" : "OK",
+		"CANCEL" : "Hủy",
+		
+		"PLAYER_NAME_TOOLTIP_FORMAT" : "Người chơi: {0}",
+		"PLAYER_NAME_DISCONNECTED" : "Người chơi đã ngắt kết nối",
+		"PLAYER_NAME_UNAVAILABLE" : "???",
+		
+		"DISCONNECTED" : "Mất kết nối",
+		"KICK_REASON_UNSPECIFIED" : "Lý do không rõ.",
+		"KICK_REASON_SERVERSHUTDOWN" : "Chủ phòng đã kết thúc game.",
+		"KICK_REASON_TIMEOUT" : "Bạn không phản hồi quá lâu.",
+		"KICK_REASON_KICK" : "Bị đá khỏi máy chủ.",
+		"KICK_REASON_BAN" : "Bị cấm khỏi máy chủ.",
+		"KICK_REASON_BADPASSWORD" : "Sai mật khẩu.",
+		"KICK_REASON_BADVERSION" : "Phiên bản game của bạn khác của chủ phòng.\nCủa bạn={0}\nCủa họ={1}",
+		"KICK_REASON_SERVERFULL" : "Máy chủ đầy.",
+		"KICK_REASON_ACCOUNT_ALREADY_ON_SERVER" : "Tài khoản của bạn đã ở trong máy chủ bạn muốn tham gia.",
+		"KICK_REASON_MALFORMED_AUTH_DATA" : "Yêu cầu tham gia máy chủ của bạn bị sai định dạng.",
+		"KICK_REASON_STEAMWORKS_AUTH_FAILURE" : "Xác minh tài khoản qua Steamworks thất bại hoặc đã bị từ chối: {0}",
+		"KICK_REASON_MOD_MISMATCH" : "Mod của bạn khác mod của máy chủ. Hai game không thể chơi với nhau.\n\n== Mod không tương thích ==\n{0}\n\n== Mod bị thiếu ==\n{1}\n",
+
+		"LEADERBOARDS" : "Bảng xếp hạng",
+		"LEADERBOARDS_GLOBAL" : "TOÀN THẾ GIỚI",
+		"LEADERBOARDS_FRIENDS" : "BẠN BÈ",
+
+		"PROFILE_TITLE" : "Chọn Hồ sơ",
+		"PROFILE_CREATE_NEW" : "Tạo Hồ sơ",
+		"PROFILE_ENTER" : "Vào",
+		"PROFILE_SELECT" : "Chọn",
+		"PROFILE_DEL" : "Xóa",
+		"PROFILE_DELETE" : "Xóa",
+		"PROFILE_CREATE_PROFILE" : "Tạo Hồ sơ",
+		"PROFILE_ADD" : "Thêm",
+
+		"PAUSE_RESUME" : "Tiếp tục",
+		"PAUSE_SETTINGS" : "Cài đặt",
+		"PAUSE_QUIT_TO_MENU" : "Thoát ra Menu",
+		"PAUSE_QUIT_TO_DESKTOP" : "Thoát game",
+		
+		"SPECTATING_NAME_FORMAT" : "Đang xem: {0}",
+		
+		"QUIT_RUN_CONFIRM_DIALOG_TITLE": "Kết thúc game?",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_SINGLEPLAYER": "Bạn có chắc bạn muốn kết thúc game không?",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_CLIENT": "Bạn có chắc bạn muốn rời game không? Bạn sẽ bỏ đồng đội đấy.",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_HOST": "Bạn là chủ phòng, nên thoát ra bây giờ sẽ <style=cDeath>kết thúc game cho tất cả mọi người</style>. Bạn có chắc bạn muốn kết thúc game không?",
+		
+		"CONTROLLER_DISCONNECTED_DIALOG_TITLE" : "Tay cầm mất kết nối",
+		"CONTROLLER_DISCONNECTED_DIALOG_BODY" : "Một tay cầm đã bị ngắt kết nối.",
+
+		"STARTUP_FAILURE_DIALOG_TITLE": "Lỗi khi bắt đầu game",
+
+		"MSVCR_2015_BAD_INSTALL_DIALOG_BODY": "The game failed to load a necessary library due to an issue with your installation of Microsoft Visual C++ 2015 Redistributable (x64). The button below will open your browser to the Microsoft download page for this installer. Please note that if the installation process fails because the redistributable is already installed, you <i>must uninstall it</i> and try again. This will also occur if you have newer versions of the redistributable, like 2017 or 2019, which will prevent the 2015 version from being installed after them.\n\nThis program will close after this message is dismissed.",
+		"MSVCR_2015_BAD_INSTALL_DIALOG_DOWNLOAD_BUTTON": "Get the Redistributable",
+
+		"ARENA_HUD_MONSTERS_LABEL": "Quái vật",
+		"ARENA_HUD_MONSTER_ITEMS_LABEL": "Vật phẩm của Quái vật",
+		
+		"IMMUNE_TO_DAMAGE_HITMARKER": "MIỄN NHIỂM",
+		"BLOCKED_DAMAGE_HITMARKER": "ĐÃ CHẶN!",
+		"EXTRALIFE_REVIVED_EFFECT": "ĐƯỢC HỒI SINH!",
+		"EXTRALIFEVOID_REVIVED_EFFECT": "ĐƯỢC HỒI SINH..?",
+
+		"SCOREBOARD_HEADER_PLAYERS": "Người chơi",
+		"SCOREBOARD_HEADER_ITEMS": "Vật phẩm",
+		"SCOREBOARD_HEADER_EQUIPMENT": "Trang bị",
+		
+		"HUD_LEVEL_PREFIX": "Cấp:",
+
+		"LANGUAGE_PLATFORM": "Mặc định ({0})",
+
+		"CUTSCENE_SKIP": "Bỏ qua",
+
+		"PERCENT_FORMAT": "<nobr>{0:0.0%}</nobr>",
+		"PERCENT_FORMAT_PARENTHESES": "<nobr>({0:0.0%})</nobr>",
+
+		"EXPANSION_PURCHASED_REQUIRED_FORMAT" : "Yêu cầu phải mua \"{0}\".",
+		"EXPANSION_ENABLED_REQUIRED_FORMAT" : "Cần bật \"{0}\".",
+
+		"FIRST_TIME_CROSSPLAY_POPUP_HEADER" : "Những Survivor Mới Đã Đến!",
+		"FIRST_TIME_CROSSPLAY_POPUP_DESCRIPTION" : "Chúng tôi rất vinh dự được giới thiệu những survivor mới đến với thế giới của Petrichor V! Risk of Rain 2 bây giờ đã hỗ trợ chơi chéo giữa tất cả mọi nền tảng PC!\n\n Để bật chơi chéo trên PC, hãy nhấn nút \"Bật Chơi chéo\" ở ngay dưới hoặc vào Cài đặt > Về game để bật bất cứ lúc nào (sẽ phải khởi động lại game)!\n\nĐể biết thêm về tính năng chơi chéo, hoặc liên lạc hỗ trợ, hãy nhấn nút \"Đọc thêm\" ở dưới",
+		"FIRST_TIME_CROSSPLAY_POPUP_DISABLE_CROSSPLAY" : "Bật Chơi chéo",
+		"FIRST_TIME_CROSSPLAY_POPUP_INFO" : "Đọc thêm",
+
+		"SIGNUP_TITLE" : "Đăng ký nhận mail từ Hopoo Games!",
+		"SIGNUP_DESC" : "Nhận tin tức mới từ game thẳng tới email của bạn!",
+		"SIGNUP_SUBMIT" : "Gửi",
+		"SIGNUP_WAIT" : "Đang gửi...",
+		"SIGNUP_SUCCESS" : "Xin cảm ơn!",
+		"SIGNUP_FAILURE" : "Lỗi. Thử lại?",
+	}
+}

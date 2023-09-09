@@ -1,0 +1,69 @@
+{
+	"strings":
+	{
+		"ARTIFACT_GLASS_NAME": "Cổ Vật Thủy Tinh",
+		"ARTIFACT_GLASS_DESCRIPTION" : "Đồng minh được gấp 500% sát thương, nhưng chỉ có 10% sinh lực.",
+
+		"ARTIFACT_BOMB_NAME" : "Cổ Vật Oán Giận",
+		"ARTIFACT_BOMB_DESCRIPTION" : "Mỗi kẻ địch nhả nhiều quả bom khi chết.",
+
+		"ARTIFACT_ENIGMA_NAME" : "Cổ Vật Bí Ẩn",
+		"ARTIFACT_ENIGMA_DESCRIPTION" : "Nhận một trang bị từ đầu game, nhưng mỗi lần kích hoạt thì đổi ngẫu nhiên trang bị.",
+
+		"ARTIFACT_SACRIFICE_NAME" : "Cổ Vật Hi Sinh",
+		"ARTIFACT_SACRIFICE_DESCRIPTION" : "Kẻ địch rơi vật phẩm khi chết, nhưng Rương sẽ không xuất hiện nữa.",
+
+		"ARTIFACT_SPIRIT_NAME" : "Artifact of Spirit",
+		"ARTIFACT_SPIRIT_DESCRIPTION" : "All characters move faster at lower health.",
+
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "Cổ Vật Biến Hình",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Người chơi đổi thành nhân vật ngẫu nhiên mỗi màn.",
+		
+		"ARTIFACT_WEAKASSKNEES_NAME": "Cổ Vật Mảnh Mai",
+		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "Gấp đôi sát thương nhận phải khi rơi từ chỗ cao xuống, và có thể chết vì rơi.",
+		
+		"ARTIFACT_WISPONDEATH_NAME": "Cổ Vật Linh Hồn",
+		"ARTIFACT_WISPONDEATH_DESCRIPTION": "Khi kẻ địch chết, sẽ có Tiểu Linh bay ra.",
+		
+		"ARTIFACT_ELITEONLY_NAME": "Cổ Vật Danh Dự",
+		"ARTIFACT_ELITEONLY_DESCRIPTION": "Mọi kẻ địch đều là Tinh Anh.",
+		
+		"ARTIFACT_SINGLEMONSTERTYPE_NAME": "Cổ Vật Dòng Dõi",
+		"ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "Mỗi màn sẽ chỉ có một loại quái vật.",
+		
+		"ARTIFACT_MIXENEMY_NAME": "Cổ Vật Bất Hòa",
+		"ARTIFACT_MIXENEMY_DESCRIPTION": "Mọi kẻ địch đều có thể xuất hiện ở bất kỳ môi trường nào.",
+		
+		"ARTIFACT_SHADOWCLONE_NAME": "Cổ Vật Hận Thù",
+		"ARTIFACT_SHADOWCLONE_DESCRIPTION": "Kẻ song trùng của bạn sẽ xuất hiện và săn đuổi bạn mỗi 10 phút.",
+		
+		"ARTIFACT_TEAMDEATH_NAME": "Cổ Vật Tử Thần",
+		"ARTIFACT_TEAMDEATH_DESCRIPTION": "Khi một người chết, mọi người cũng chết. Sử dụng Cổ Vật này chỉ khi bạn thực sự muốn thách thức kỹ năng làm việc nhóm và kỹ năng cá nhân của team."
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>Cái chết của {0} lan tỏa ra.</b></style>",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>Cát chết của bạn đã gây một hiệu ứng dây chuyền khủng khiếp.</b></style>",
+		
+		"ARTIFACT_SWARMS_NAME": "Cổ Vật Bầy Đàn",
+		"ARTIFACT_SWARMS_DESCRIPTION": "Kẻ địch xuất hiện nhiều gấp đôi, nhưng sinh lực kẻ địch giảm nửa.",
+		
+		"ARTIFACT_COMMAND_NAME": "Cổ Vật Mệnh Lệnh",
+		"ARTIFACT_COMMAND_DESCRIPTION": "Tự chọn Vật Phẩm.",
+		"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "Mở",
+		"ARTIFACT_COMMAND_INTERACTION_HEADER" : "Mệnh Lệnh của bạn là gì?",
+		"ARTIFACT_COMMAND_CUBE_WHITE_NAME" : "Lệnh Chú Trắng",
+		"ARTIFACT_COMMAND_CUBE_GREEN_NAME" : "Lệnh Chú Lục",
+		"ARTIFACT_COMMAND_CUBE_RED_NAME" : "Lệnh Chú Đỏ",
+		"ARTIFACT_COMMAND_CUBE_YELLOW_NAME" : "Lệnh Chú Vàng",
+		"ARTIFACT_COMMAND_CUBE_ORANGE_NAME" : "Lệnh Chú Cam",
+		"ARTIFACT_COMMAND_CUBE_BLUE_NAME" : "Lệnh Chú Lam",
+		"ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME" : "Lệnh Chú Vô Gốc",
+
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_NAME": "Cổ Vật Tiến Hóa",
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "Kẻ địch nhận vật phẩm mỗi khi lên màn.",
+
+		"ARTIFACT_FRIENDLYFIRE_NAME": "Cổ Vật Hỗn Loạn",
+		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Cả phe đồng minh lẫn kẻ địch đều có thể sát thương lẫn nhau.",
+
+		"ARTIFACT_NONE_NAME" : "Tắt Cổ Vật",
+		"ARTIFACT_NONE_DESCRIPTION" : "Tắt Cổ Vật đang chọn.",
+	}
+}

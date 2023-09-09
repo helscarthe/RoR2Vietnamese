@@ -1,0 +1,17 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "Rất dễ",
+	"DIFFICULTY_BAR_1": "Dễ",
+	"DIFFICULTY_BAR_2": "Vừa",
+	"DIFFICULTY_BAR_3": "Khó",
+	"DIFFICULTY_BAR_4": "Rất khó",
+	"DIFFICULTY_BAR_5": "Điên loạn",
+	"DIFFICULTY_BAR_6": "Bất khả thi",
+	"DIFFICULTY_BAR_7": "TAO THẤY MÀY RỒI NHÁ",
+	"DIFFICULTY_BAR_8": "TAO ĐẾN GIẾT MÀY ĐÂY",
+	"DIFFICULTY_BAR_9": "HAHAHAHAHAHA",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>Màn</style> {0}",
+	"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>Cấp</style> {0}",
+	}
+}

@@ -1,0 +1,61 @@
+﻿{
+	"strings": {
+		"CUTSCENE_INTRO_FLAVOR_1": "UES 'Safe Travels' ",
+		"CUTSCENE_INTRO_FLAVOR_2": "Tọa độ cuối cùng của tàu UES 'Contact Light'",
+		"CUTSCENE_INTRO_SUBTITLE_1": "Thuyền Trưởng, ta đến nơi rồi. Tín hiệu cầu cứu xuất phát từ đúng tọa độ này.",
+		"CUTSCENE_INTRO_SUBTITLE_2": "Hành tinh này... không nằm trên bản đồ sao nào hết. Khu vực này còn chẳng nằm trên tuyến nào cả... ",
+		"CUTSCENE_INTRO_SUBTITLE_3": "Có thấy tàu Contact Light không?",
+		"CUTSCENE_INTRO_SUBTITLE_4": "Không thưa ngài... chỉ có sắt vụn thôi.",
+		"CUTSCENE_INTRO_SUBTITLE_5": "Có tín hiệu sống nào không?",
+		"CUTSCENE_INTRO_SUBTITLE_6": "....Không thưa ngài. Máy quét sinh học không dò ra gì hết.",
+		"CUTSCENE_INTRO_SUBTITLE_7": "Thưa ngài... tín hiệu cầu cứu. Nó nói là... nó nói rất nhiều thứ.",
+		"CUTSCENE_INTRO_SUBTITLE_8": "Có quái vật, có giao tranh, rồi còn cả...",
+		"CUTSCENE_INTRO_SUBTITLE_9": "...Thưa ngài... ngài nghĩ rằng ta đã sẵn sàng chưa?",
+		"CUTSCENE_INTRO_SUBTITLE_10": "Thưa ngài?",
+
+		"GENERIC_OUTRO_FLAVOR": "..và rồi nó trốn thoát, hi vọng rằng mọi chuyện sẽ có ý nghĩa.",
+		"GENERIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và rồi nó biến mất, khi cơ hội trốn thoát đã ở rất gần.",
+
+		"COMMANDO_OUTRO_FLAVOR": "..và rồi anh trốn thoát, với những mệnh lệnh mới và những thắc mắc mới.",
+		"COMMANDO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và anh ấy biến mất, thêm một con số trong số lính mất tích.",
+
+		"HUNTRESS_OUTRO_FLAVOR": "..và rồi cô trốn thoát, đợi chờ cuộc săn tiếp theo.",
+		"HUNTRESS_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và cô ấy biến mất, không bao giờ được lụm tiền thưởng nữa.",
+
+		"ENGI_OUTRO_FLAVOR": "..và rồi anh trốn thoát, với những cảm hứng mới.",
+		"ENGI_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và anh ấy biến mất, trước khi kịp lý giải những thứ anh đã phải thấy.",
+
+		"TREEBOT_OUTRO_FLAVOR": "..và rồi nó trốn thoát, sẵn sàng mọc lên thành thứ gì đó lớn lao hơn.",
+		"TREEBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và rồi nó biến mất, vẫn hai phần như một.",
+
+		"CROCO_OUTRO_FLAVOR": "..và rồi nó trốn thoát, vẫn mộng tưởng rằng nó đã tự do.",
+		"CROCO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và rồi nó biến mất, bị nhốt đi lần cuối cùng.",
+
+		"LOADER_OUTRO_FLAVOR": "..và rồi cô trốn thoát, lồng ngực vẫn thình thịch.",
+		"LOADER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và cô ấy biến mất, vĩnh viễn bị dừng lại.",
+
+		"MERC_OUTRO_FLAVOR": "..và rồi anh trốn thoát, mơ về những sơn hào hải vị và một đêm yên bình.",
+		"MERC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và anh ấy biến mất, chỉ còn là chuyện kể.",
+
+		"CAPTAIN_OUTRO_FLAVOR": "..và rồi anh trốn thoát, mang theo mình một câu chuyện mới.",
+		"CAPTAIN_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và anh ấy biến mất, vĩnh viễn không cần phải ngồi bàn giấy nữa.",
+
+		"TOOLBOT_OUTRO_FLAVOR": "..và rồi nó trốn thoát, sẵn sàng sạc lại.",
+		"TOOLBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và rồi nó biến mất, vĩnh viễn tắt máy.",
+
+		"MAGE_OUTRO_FLAVOR": "..và rồi cô trốn thoát, cùng đam mê mới của cô: khám phá vũ trụ.",
+		"MAGE_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và cô ấy biến mất, chức vụ của cô vĩnh viễn bỏ trống.",
+
+		"BANDIT2_OUTRO_FLAVOR": "..và rồi anh trốn thoát, biết ơn vì mình đã may mắn đến vậy.",
+		"BANDIT2_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR":  "..và anh ấy biến mất, đầy hối tiếc.",
+
+		"HERETIC_OUTRO_FLAVOR": "..và rồi hắn trốn thoát, với thù đắng đã trả nhưng cũng không còn lẽ sống.",
+		"HERETIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và rồi hắn biến mất, hai câu chuyện kết thúc thành một.",
+
+		"RAILGUNNER_OUTRO_FLAVOR": "..và rồi cô trốn thoát, sẵn sàng bắn phát tiếp theo.",
+		"RAILGUNNER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..và cô ấy biến mất, không còn ngắm được nữa.",
+
+		"VOIDSURVIVOR_OUTRO_FLAVOR": "『..và rồ?i nó đ??ến】... 「đi t?ìm chú?ng ta.』",
+		"VOIDSURVIVOR_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR":  "『..v?à rồi nó b?iến mấ??t』, 「chỉ còn là gi?ọng thì th??ầm trong đ??êm tối』",
+	}
+}

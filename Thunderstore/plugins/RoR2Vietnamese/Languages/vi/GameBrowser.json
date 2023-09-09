@@ -1,0 +1,68 @@
+{
+	"strings": {
+		"GAME_BROWSER_NAME" : "Tìm Phòng Chơi",
+		"GAME_BROWSER_FILTER" : "Lọc",
+		"GAME_BROWSER_FILTER_SORTING" : "Sắp xếp",
+		"GAME_BROWSER_FILTER_SHOW_DEDICATED_SERVERS": "Máy chủ Riêng",
+		"GAME_BROWSER_FILTER_SHOW_LISTEN_SERVERS": "Máy chủ Dò tìm",
+		"GAME_BROWSER_FILTER_SHOW_LOBBIES": "Các phòng chơi",
+		"GAME_BROWSER_FILTER_SHOW_DROP_IN_GAMES": "Có bật Tham gia giữa chừng",
+		"GAME_BROWSER_FILTER_SHOW_DIFFICULTY_EASY_GAMES": "Độ khó: Mưa Phùn",
+		"GAME_BROWSER_FILTER_SHOW_DIFFICULTY_NORMAL_GAMES": "Độ khó: Mưa Rào",
+		"GAME_BROWSER_FILTER_SHOW_DIFFICULTY_HARD_GAMES": "Độ khó: Giông Tố",
+		"GAME_BROWSER_FILTER_SHOW_GAMES_WITH_RULE_VOTING": "Có Bình chọn Luật chơi",
+		"GAME_BROWSER_FILTER_SHOW_GAMES_WITHOUT_RULE_VOTING": "Tắt Bình chọn Luật chơi",
+		"GAME_BROWSER_FILTER_SHOW_PASSWORDED_GAMES": "Có mật khẩu",
+		"GAME_BROWSER_FILTER_MAX_PING": "Ping tối đa",
+		"GAME_BROWSER_FILTER_MUST_HAVE_PLAYERS": "Phải có Người chơi",
+		"GAME_BROWSER_FILTER_MUST_HAVE_ENOUGH_SLOTS": "Phải có đủ chỗ",
+		"GAME_BROWSER_FILTER_MIN_MAX_PLAYERS": "Tối thiểu bao nhiêu người",
+		"GAME_BROWSER_FILTER_MAX_MAX_PLAYERS": "Tối đa bao nhiêu người",
+		"GAME_BROWSER_FILTER_REQUIRED_TAGS": "Tag phải có",
+		"GAME_BROWSER_FILTER_FORBIDDEN_TAGS": "Tag cấm có",
+		"GAME_BROWSER_FILTER_SHOW_STARTED_GAMES": "Hiển thị game đã bắt đầu",
+		"GAME_BROWSER_FILTER_HIDE_INCOMPATIBLE_GAMES": "Giấu các game không tương thích",
+
+		"GAME_BROWSER_SORTER_PING": "Ping",
+		"GAME_BROWSER_SORTER_NAME": "Tên",
+		"GAME_BROWSER_SORTER_PLAYER_COUNT": "Số người chơi",
+		"GAME_BROWSER_SORTER_MAX_PLAYER_COUNT": "Số người tối đa",
+		"GAME_BROWSER_SORTER_AVAILABLE_SLOTS": "Số chỗ trống",
+
+		"GAME_BROWSER_REFRESH": "Làm mới",
+
+		"GAME_BROWSER_HEADER_NAME": "Tên",
+		"GAME_BROWSER_HEADER_DIFFICULTY": "Độ khó",
+		"GAME_BROWSER_HEADER_PING": "Ping",
+		"GAME_BROWSER_HEADER_PLAYERS": "Số người chơi",
+		"GAME_BROWSER_HEADER_TAGS": "Tag",
+		"GAME_BROWSER_HEADER_ARTIFACTS": "Cổ Vật",
+
+		"REMOTE_GAME_DETAILS_WINDOW_TITLE": "Thông tin Game",
+		"REMOTE_GAME_DETAILS_NAME": "<style=cSub>Tên:</style>\t\t{0}",
+		"REMOTE_GAME_DETAILS_PING": "<style=cSub>Ping:</style>\t\t{0, 1}",
+		"REMOTE_GAME_DETAILS_TAGS": "<style=cSub>Tag:</style>\t\t{0}",
+		"REMOTE_GAME_DETAILS_GAMEMODE": "<style=cSub>Chế độ:</style>\t{0}",
+		"REMOTE_GAME_DETAILS_MAP": "<style=cSub>Bản đồ chơi:</style>\t\t{0}",
+		"REMOTE_GAME_DETAILS_STATUS": "<style=cSub>Trạng thái:</style>\t{0}",
+		"REMOTE_GAME_DETAILS_LOBBY_PLAYER_COUNT": "<style=cSub>Số người trong phòng:</style>\t{0,1}/{1,1}",
+		"REMOTE_GAME_DETAILS_SERVER_PLAYER_COUNT": "<style=cSub>Số người trong máy chủ:</style>\t{0,1}/{1,1}",
+		"REMOTE_GAME_DETAILS_PASSWORD": "<style=cSub>Mật khẩu:\t</style>",
+		"REMOTE_GAME_DETAILS_RULES": "<style=cSub>Luật chơi:</style>",
+		"REMOTE_GAME_DETAILS_PLAYERS": "<style=cSub>Số người chơi:</style>",
+
+		"REMOTE_GAME_STATUS_UNRESPONSIVE": "Không có phản hồi",
+		"REMOTE_GAME_STATUS_RESPONSIVE": "Kết nối được",
+		"REMOTE_GAME_STATUS_PENDING": "Đang chờ kết nối...",
+
+		"REMOTE_GAME_DETAILS_FAVORITE": "Danh sách yêu thích: ",
+		"REMOTE_GAME_DETAILS_BLACKLISTED": "Danh sách cấm: ",
+
+		"REMOTE_GAME_DETAILS_REFRESH": "Làm mới",
+		"REMOTE_GAME_DETAILS_JOIN_LOBBY": "Vào phòng",
+		"REMOTE_GAME_DETAILS_JOIN_SERVER": "Vào máy chủ",
+
+		"REMOTE_GAME_DETAILS_WARNING_VERSION_MISMATCH": "Game của bạn và game của phòng khác phiên bản.",
+		"REMOTE_GAME_DETAILS_WARNING_MOD_MISMATCH": "Các mod của bạn và các mod của phòng không tương thích."
+	}
+}

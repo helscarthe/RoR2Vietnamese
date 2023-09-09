@@ -1,0 +1,28 @@
+{
+	"strings":
+	{
+		"TOOLTIP_TIME_DIFFICULTY": "Độ khó <i>LUÔN</i> tăng dần theo thời gian - chơi nhanh lên!",
+		"TOOLTIP_EQUIPMENT": "<color=orange>Trang bị</color> là các vật phẩm tự kích hoạt rất mạnh.",
+		"TOOLTIP_SPRINT": "Chạy để đi quanh map nhanh hơn!",
+		"TOOLTIP_WIP_CONTENT_NAME" : "Đang xây dưng",
+		"TOOLTIP_WIP_CONTENT_DESCRIPTION" : "Phần này vẫn chưa hoàn thiện. Hãy quay lại sau nhé!",
+
+		"TOOLTIP_UNLOCK_LOG_NAME" : "Đã mở Mục mới trong Sổ thông tin",
+		"TOOLTIP_UNLOCK_LOG_DESCRIPTION" : "Hãy vào Sổ thông tin để đọc mục mới.",
+
+		"TOOLTIP_UNLOCK_ITEM_NAME" : "Vật phẩm đã được mở khóa",
+		"TOOLTIP_UNLOCK_ITEM_DESCRIPTION" : "Vật phẩm này từ giờ sẽ xuất hiện ngẫu nhiên khi chơi.",
+
+		"TOOLTIP_UNLOCK_EQUIPMENT_NAME" : "Trang bị đã được mở khóa",
+		"TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION" : "Trang bị này từ giờ sẽ xuất hiện ngẫu nhiên khi chơi.",
+
+		"TOOLTIP_UNLOCK_SURVIVOR_NAME" : "Survivor đã được mở khóa",
+		"TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION" : "Bạn có thể sử dụng Survivor này từ game tiếp theo.",
+
+		"TOOLTIP_UNLOCK_ARTIFACT_NAME" : "Cổ Vật đã được mở khóa",
+		"TOOLTIP_UNLOCK_ARTIFACT_DESCRIPTION" : "Bạn có thể sử dụng Cổ Vật này từ game tiếp theo.",
+
+		"TOOLTIP_UNLOCK_GENERIC_NAME" : "Đã mở khóa",
+		"TOOLTIP_UNLOCK_GENERIC_DESCRIPTION" : "Nội dung này đã được mở khóa.",
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"strings":
+	{
+		"RULE_HEADER_DIFFICULTY": "Độ khó",
+		"RULE_HEADER_DIFFICULTY_WITH_COLON": "Độ khó:",
+		"RULE_HEADER_ARTIFACTS": "Cổ Vật",
+		"RULE_HEADER_ARTIFACTS_WITH_COLON": "Cổ Vật:",
+		"RULE_HEADER_ARTIFACTS_SUBTITLE" : "<style=cArtifact>Cổ Vật</style> là một loại tùy chọn đặc biệt có khả năng thay đổi những yếu tố rất quan trọng của game. <style=cArtifact>Cổ Vật</style> có thể mở khóa trong khi chơi, ở <style=cArtifact>một nơi bí mật</style>.\n\n<i>Vẫn có thể hoàn thành các Thử thách khi sử dụng Cổ Vật.<i>",
+		"RULE_ARTIFACTS_EMPTY_TIP": "Bạn không có Cổ Vật nào.",
+		"RULE_HEADER_ARTIFACTS_EDIT" : "Bật/tắt Cổ Vật.",
+		
+		"RULE_HEADER_ITEMS": "Vật phẩm",
+		"RULE_HEADER_EQUIPMENT": "Trang bị",
+		"RULE_HEADER_ITEMSANDEQUIPMENT_SUBTITLE" : "Bật/tắt các vật phẩm có thể xuất hiện trong khi chơi.",
+		"RULE_HEADER_ITEMSANDEQUIPMENT_EDIT" : "Bật/tắt vật phẩm và trang bị.",
+
+		"RULE_HEADER_MISC": "Tùy chỉnh",
+		"RULE_STARTINGMONEY_CHOICE_0_NAME": "Ngèo",
+		"RULE_STARTINGMONEY_CHOICE_0_DESC": "Bắt đầu không xu dính túi.",
+		"RULE_STARTINGMONEY_CHOICE_15_NAME": "Mặc định",
+		"RULE_STARTINGMONEY_CHOICE_15_DESC": "Bắt đầu với 15 vàng.",
+		"RULE_STARTINGMONEY_CHOICE_50_NAME": "Dàu!",
+		"RULE_STARTINGMONEY_CHOICE_50_DESC": "Bắt đầu với 50 vàng.",
+
+		"RULE_STAGEORDER_CHOICE_NORMAL_NAME": "Tiêu chuẩn",
+		"RULE_STAGEORDER_CHOICE_NORMAL_DESC": "Đi qua các màn theo thứ tự.",
+
+		"RULE_STAGEORDER_CHOICE_RANDOM_NAME": "Lang thang",
+		"RULE_STAGEORDER_CHOICE_RANDOM_DESC": "Đi qua các màn theo thứ tự ngẫu nhiên.",
+		
+		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_ON_DESC": "Giữ tiền khi chuyển màn mới",
+		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_OFF_DESC": "Chuyển tiền thành kinh nghiệm khi hết màn",
+
+		"RULE_ITEM_ON_DESCRIPTION" : "Cho phép vật phẩm này xuất hiện khi chơi.",
+		"RULE_ITEM_OFF_DESCRIPTION" : "Không cho phép vật phẩm này xuất hiện khi chơi.",
+		"RULE_OFF_FORMAT" : "{0} (Đã tắt)",
+
+		"RULE_DESCRIPTION_FORMAT" : "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+		"RULE_EDIT_FORMAT" : "<mark=#{2}><b>[ Sửa {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+
+		"RULE_HEADER_EXPANSIONS": "Bản mở rộng",
+		"RULE_HEADER_EXPANSIONS_EDIT": "Bật/tắt các bản mở rộng.",
+		"RULE_HEADER_EXPANSIONS_SUBTITLE": "Các bản mở rộng được bật cho game này.",
+		"RULE_EXPANSION_ON_DESCRIPTION" : "Bật bản mở rộng này.",
+		"RULE_EXPANSION_OFF_DESCRIPTION" : "Tắt bản mở rộng này."
+	}
+}

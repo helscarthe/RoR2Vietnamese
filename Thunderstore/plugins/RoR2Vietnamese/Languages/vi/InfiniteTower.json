@@ -1,0 +1,74 @@
+{
+    "strings":
+    {
+        "INFINITETOWER_GAMEMODE_NAME" : "Chốn Giả Lập",
+        "INFINITETOWER_GAMEMODE_DESCRIPTION" : "<style=cWorldEvent>Chốn Giả Lập</style> là một chế độ chơi đặc biệt, trong đó người chơi sẽ phải liên tục đối đầu một lượng quái vô hạn theo từng đợt.\n\nMọi thứ đều là giả.\nMọi thứ đều là giả.\nMọi thứ đều là giả.",
+        "INFINITETOWER_GAMEMODE_START" : "Kích hoạt",
+        "INFINITE_TOWER_ENEMIES_REMAINING": "Số Địch còn lại: ",
+        "INFINITE_TOWER_ENEMY_COUNTER" : "{0}",
+        "INFINITE_TOWER_TIME_REMAINING": "<style=cSub>Đợt tiếp theo: </style>",
+        "INFINITE_TOWER_TIME_COUNTER" : "{0}",
+        "INFINITETOWER_TIME_HIGHEST_WAVE_EASY" : "> Đợt cao nhất (Mưa phùn): <style=cIsHealing>{0}</style>",
+        "INFINITETOWER_TIME_HIGHEST_WAVE_NORMAL" : "> Đợt cao nhất (Mưa Rào): <style=cIsHealing>{0}</style>",
+        "INFINITETOWER_TIME_HIGHEST_WAVE_HARD" : "> Đợt cao nhất (Giông Tố): <style=cIsHealing>{0}</style>",
+        "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDEASY": "Wave",
+        "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDNORMAL": "Wave",
+        "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDHARD": "Wave",
+        "STATNAME_HIGHESTINFINITETOWERWAVEREACHED": "Wave",      
+        "INFINITETOWER_WAVE_BEGIN" : "<style=cWorldEvent>[CHÚ Ý] Tái tạo lại bài kiểm tra thực chiến..</style>",
+        "INFINITETOWER_WAVE_BEGIN_BOSS" : "<style=cWorldEvent>[CHÚ Ý] Tái tạo lại bài kiểm tra thực chiến <b>nâng cao</b>..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_BOMB" : "<style=cWorldEvent>[CHÚ Ý] Tái tạo lại bài kiểm tra thực chiến với cường hóa <style=cArtifact>Oán Giận</style>..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_COMMAND" : "<style=cWorldEvent>[CHÚ Ý] Tái tạo lại bài kiểm tra thực chiến với cường hóa <style=cArtifact>Mệnh Lệnh</style>..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_GLASS" : "<style=cWorldEvent>[CHÚ Ý] Tái tạo lại bài kiểm tra thực chiến với cường hóa <style=cArtifact>Thủy Tinh</style>..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_MIXENEMY" : "<style=cWorldEvent>[CHÚ Ý] Tái tạo lại bài kiểm tra thực chiến với cường hóa <style=cArtifact>Bất Hòa</style>..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_SINGLEMONSTERTYPE" : "<style=cWorldEvent>[CHÚ Ý] Replicating combat test with <style=cArtifact>Dòng Dõi</style>..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WEAKASSKNEES" : "<style=cWorldEvent>[CHÚ Ý] Tái tạo lại bài kiểm tra thực chiến với cường hóa <style=cArtifact>Mảnh Mai</style>..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WISPONDEATH" : "<style=cWorldEvent>[CHÚ Ý] Tái tạo lại bài kiểm tra thực chiến với cường hóa <style=cArtifact>Linh Hồn</style>..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_ENIGMA" : "<style=cWorldEvent>[CHÚ Ý] Tái tạo lại bài kiểm tra thực chiến với cường hóa <style=cArtifact>Bí Ẩn</style>..</style>",
+        "PORTAL_INFINITETOWER_OPEN" : "<style=cWorldEvent>Tái tạo thành công. Sang giả lập tiếp theo.</style>",
+
+        "INFINITETOWER_WAVE_COUNTER" : "Đợt {0}",
+        "INFINITETOWER_WAVE_DESCRIPTION_DEFAULT" : "Đánh bại mọi kẻ địch.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS" : "Đợt {0} - Boss",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS" : "Địch mạnh hơn và nhiều hơn.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS_LUNAR" : "Đợt {0} - Boss, Cường hóa Mặt Trăng",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS_LUNAR" : "Địch mạnh hơn, nhiều hơn, và toàn bộ đều thuộc Mặt Trăng.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS_VOID" : "Đợt {0} - Boss, Cường hóa Hư Không",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS_VOID" : "Địch mạnh hơn, nhiều hơn, và toàn bộ đều thuộc Hư Không.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS_SCAV" : "Đợt {0} - Boss, Cường hóa Kẻ Trữ Rác",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV" : "Đánh bại Kẻ Trữ Rác để nhận phần thưởng đặc biệt.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS_BROTHER" : "Đợt {0} - Boss, Cường hóa Mithrix",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER" : "Đánh bại Mithrix để nhận phần thưởng đặc biệt.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOMB" : "Đợt {0} - Cường hóa Oán Giận",
+        "INFINITETOWER_WAVE_COUNTER_COMMAND" : "Đợt {0} - Cường hóa Mệnh Lệnh",
+        "INFINITETOWER_WAVE_COUNTER_GLASS" : "Đợt {0} - Cường hóa Thủy Tinh",
+        "INFINITETOWER_WAVE_COUNTER_MIXENEMY" : "Đợt {0} - Cường hóa Bất Hòa",
+        "INFINITETOWER_WAVE_COUNTER_SINGLEMONSTERTYPE" : "Đợt {0} - Cường hóa Dòng Dõi",
+        "INFINITETOWER_WAVE_COUNTER_WEAKASSKNEES" : "Đợt {0} - Cường hóa Mảnh Mai",
+        "INFINITETOWER_WAVE_COUNTER_WISPONDEATH" : "Đợt {0} - Cường hóa Linh Hồn",
+        "INFINITETOWER_WAVE_COUNTER_ENIGMA" : "Đợt {0} - Cường hóa Bí Ẩn",
+
+        "MAP_INFINITETOWER_TITLE" : "Chốn Giả Lập",
+        "MAP_INFINITETOWER_SUBTITLE" : "Giả lập Tấn công",
+	    "INFINITETOWER_ADD_ITEM" : "<style=cWorldEvent>[CHÚ Ý] {1} đã được tích hợp vào Giả Lập...!</style>",
+
+        "INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION" : "Kích hoạt Tâm Điểm",
+        "INFINITETOWER_OBJECTIVE_ACTIVE" : "Hãy sống sót..",
+        "INFINITETOWER_OBJECTIVE_TRAVEL" : "Đi theo Tâm Điểm",
+        "INFINITETOWER_OBJECTIVE_PORTAL" : "Đi vào Cổng",
+
+	    "INFINITE_TOWER_SAFE_WARD_NAME" : "Tâm Điểm Đánh Giá",
+	    "INFINITE_TOWER_SAFE_WARD_CONTEXT" : "Bắt đầu Đánh Giá",
+
+        "PORTAL_INFINITETOWER_NAME" : "Cổng Vô Hạn",
+	    "PORTAL_INFINITETOWER_CONTEXT": "Đi vào Cổng Vô Hạn",
+
+        "INFINITETOWER_SUDDEN_DEATH" : "Tâm Điểm bắt đầu yếu đi..",
+	}
+}

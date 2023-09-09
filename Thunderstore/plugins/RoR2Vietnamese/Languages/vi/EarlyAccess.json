@@ -1,0 +1,8 @@
+{
+	strings:
+	{
+	"EARLY_ACCESS_DISCLAIMER": "Cảm ơn bạn đã chơi Risk of Rain 2! \r\n\r\nXin hãy nhớ rằng RoR2 vẫn đang trong giai đoạn thử nghiệm! Bạn có thể sẽ gặp phải những tính năng chưa hoàn thiện hoặc bị thiếu mất hoàn toàn <sprite name=\"WIP\">.\r\n\r\nHãy gửi các góp ý và báo lỗi đến contact@hopoogames.com. Bạn cũng có thể tham gia server Discord chính thức của game, ở trong phần 'Nhạc & Khác'. \r\n\r\nHẹn gặp lại bạn trên hành tinh ấy.\r\n\r\n<i>- Hopoo Games<\/i>",
+	"EARLY_ACCESS_LORE" : "<style=cMono>\r\nChào mừng vào DataScraper (v3.1.53 \u2013 nhánh beta)\r\n$ Cào bộ nhớ... lỗi.\r\n$ Xử lý... lỗi.\r\n$ Tìm thông tin liên quan...\r\nLỗi!\r\nXuất error log...\r\n<\/style>\r\n\r\nKhông tồn tại dữ liệu. Hãy thử lại sau.\r\n",
+	}
+}
+

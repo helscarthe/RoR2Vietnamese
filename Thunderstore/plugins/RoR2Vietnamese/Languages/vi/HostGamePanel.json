@@ -1,0 +1,33 @@
+{
+	"strings": {
+		"HOSTGAMEPANEL_TITLE": "Tạo phòng nhiều người chơi",
+		"HOSTGAMEPANEL_HEADER_SERVER_SETTINGS": "Cài đặt phòng",
+		"HOSTGAMEPANEL_OPTION_SERVER_NAME": "Tên phòng",
+		"HOSTGAMEPANEL_OPTION_SERVER_NAME_DESCRIPTION": "Tên của phòng của bạn.",
+		"HOSTGAMEPANEL_DEFAULT_SERVER_NAME_FORMAT": "Phòng của {0}",
+
+		"HOSTGAMEPANEL_OPTION_GAME_MODE": "Chế độ",
+		"HOSTGAMEPANEL_OPTION_GAME_MODE_DESCRIPTION": "Chế độ game bạn muốn chơi.",
+
+		"HOSTGAMEPANEL_OPTION_PASSWORD": "Mật khẩu",
+		"HOSTGAMEPANEL_OPTION_PASSWORD_DESCRIPTION": "Mật khẩu cho phòng, có thể để trống. Những người chơi không có mật khẩu sẽ không thể vào phòng.",
+
+		"HOSTGAMEPANEL_MAX_PLAYERS": "Số người chơi tối đa",
+		"HOSTGAMEPANEL_MAX_PLAYERS_DESCRIPTION": "Số người chơi tối đa có thể có trong phòng của bạn.",
+		"HOSTGAMEPANEL_MAX_PLAYERS_TOO_MANY_SLOTS_WARNING": "Risk of Rain 2 được thiết kế để chơi với tối đa 4 người. Hiệu năng, băng thông, độ ổn định và độ cân bằng của game sẽ có thể bị giảm sút.",
+
+		"HOSTGAMEPANEL_CUSTOM_TAGS": "Tag tùy chọn",
+		"HOSTGAMEPANEL_CUSTOM_TAGS_DESCRIPTION": "Tag của phòng của bạn, có thể để trống. Người chơi có thể tìm phòng bạn bằng các tag.",
+
+		"HOSTGAMEPANEL_ALLOW_RULE_VOTING": "Cho phép Bình chọn Luật chơi",
+		"HOSTGAMEPANEL_ALLOW_RULE_VOTING_DESCRIPTION": "Người chơi có được phép bình chọn Độ khó, Cổ Vật và các yếu tố khác khi đang chọn nhân vật không.",
+
+		"HOSTGAMEPANEL_LOBBY_TYPE": "Truy cập phòng chơi",
+		"HOSTGAMEPANEL_LOBBY_TYPE_DESCRIPTION": "Chọn chế độ Công khai, Riêng tư hoặc Chỉ bạn bè.\n\nPhòng chơi sẽ chỉ được quảng cáo đến mọi người chơi khác nếu đặt chế độ Công khai.",
+
+		"HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER": "Hiển thị trong Máy chủ chính",
+		"HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER_DESCRIPTION": "Chọn xem phòng chơi có được hiển thị trong phần Tìm Phòng chơi không.",
+
+		"HOSTGAMEPANEL_HOST": "Bắt đầu game"
+	} 
+}

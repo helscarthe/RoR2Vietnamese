@@ -1,0 +1,27 @@
+{
+	strings:
+	{
+		"ACTION_MOVE_HORIZONTAL" : "Di chuyển ngang dọc",
+		"ACTION_MOVE_VERTICAL" : "Di chuyển lên xuống",
+		"ACTION_AIM_HORIZONTAL_MOUSE" : "Nhìn trái phải",
+		"ACTION_AIM_VERTICAL_MOUSE" : "Nhìn lên xuống",
+		"ACTION_AIM_HORIZONTAL_STICK" : "Nhìn trái phải",
+		"ACTION_AIM_VERTICAL_STICK" : "Nhìn lên xuống",
+		"ACTION_JUMP" : "Nhảy",
+		"ACTION_SPRINT" : "Bật/tắt chạy",
+		"ACTION_INTERACT" : "Tương tác",
+		"ACTION_EQUIPMENT" : "Kích hoạt trang bị",
+		"ACTION_PRIMARY_SKILL" : "Kĩ năng chính",
+		"ACTION_SECONDARY_SKILL" : "Kỹ năng phụ",
+		"ACTION_UTILITY_SKILL" : "Kỹ năng hỗ trợ",
+		"ACTION_SPECIAL_SKILL" : "Kỹ năng đặc biệt",
+		"ACTION_INFO" : "Màn hình thông tin",
+		"ACTION_PING" : "Ping",
+		"ACTION_MOVE_VERTICAL_POSITIVE" : "Đi tiến",
+		"ACTION_MOVE_VERTICAL_NEGATIVE" : "Đi lùi",
+		"ACTION_MOVE_HORIZONTAL_POSITIVE" : "Đi sang phải",
+		"ACTION_MOVE_HORIZONTAL_NEGATIVE" : "Đi sang trái",
+		"INPUT_KEYBOARD_UNBOUND" : "[CHƯA CÀI PHÍM KB/M]",
+		"INPUT_GAMEPAD_UNBOUND" : "[CHƯA CÀI PHÍM GAMEPAD]",
+	}
+}

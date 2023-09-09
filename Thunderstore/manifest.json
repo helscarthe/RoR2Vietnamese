@@ -1,0 +1,9 @@
+﻿{
+	"name": "RoR2Vietnamese",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Thêm Tiếng Việt vào game!",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2113"
+	]
+}

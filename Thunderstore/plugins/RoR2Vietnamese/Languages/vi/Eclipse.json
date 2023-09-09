@@ -1,0 +1,25 @@
+{
+    "strings":
+    {
+       "ECLIPSE_GAMEMODE_NAME" : "Thiên Thực",
+	   "ECLIPSE_GAMEMODE_DESCRIPTION" : "<style=cIsUtility>Thiên Thực</style> là một chế độ chơi thêm những thay đổi độ khó theo cấp độ vào game.\n\nMỗi lần bạn <style=cIsUtility>thắng game</style>, cấp Thiên Thực của Survivor đó <style=cIsUtility>tăng vĩnh viễn</style>, lên đến cấp <style=cIsUtility>8</style>.",
+	   "ECLIPSE_GAMEMODE_START" : "Bắt đầu Thiên Thực",
+
+	   "ECLIPSE_1_NAME" : "Thiên Thực (1)",
+	   "ECLIPSE_2_NAME" : "Thiên Thực (2)",
+	   "ECLIPSE_3_NAME" : "Thiên Thực (3)",
+	   "ECLIPSE_4_NAME" : "Thiên Thực (4)",
+	   "ECLIPSE_5_NAME" : "Thiên Thực (5)",
+	   "ECLIPSE_6_NAME" : "Thiên Thực (6)",
+	   "ECLIPSE_7_NAME" : "Thiên Thực (7)",
+	   "ECLIPSE_8_NAME" : "Thiên Thực (8)",
+	   "ECLIPSE_1_DESCRIPTION" : "Bắt đầu ở độ khó Giông Tố.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Sinh lực khởi điểm: <style=cIsHealth>-50%</style></style>",
+	   "ECLIPSE_2_DESCRIPTION" : "Bắt đầu ở độ khó Giông Tố.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Sinh lực khởi điểm: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Bán kính Máy Dịch Chuyển: <style=cIsHealth>-50%</style></style>",
+	   "ECLIPSE_3_DESCRIPTION" : "Bắt đầu ở độ khó Giông Tố.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Sinh lực khởi điểm: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Bán kính Máy Dịch Chuyển: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Sát thương khi rơi từ trên cao: <style=cIsHealth>+100% và sẽ gây chết người</style></style>",
+	   "ECLIPSE_4_DESCRIPTION" : "Bắt đầu ở độ khó Giông Tố.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Sinh lực khởi điểm: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Bán kính Máy Dịch Chuyển: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Sát thương khi rơi từ trên cao: <style=cIsHealth>+100% và sẽ gây chết người</style>\n<mspace=0.5em>(4)</mspace> Tốc độ di chuyển kẻ địch: <style=cIsHealth>+40%</style></style>",
+	   "ECLIPSE_5_DESCRIPTION" : "Bắt đầu ở độ khó Giông Tố.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Sinh lực khởi điểm: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Bán kính Máy Dịch Chuyển: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Sát thương khi rơi từ trên cao: <style=cIsHealth>+100% và sẽ gây chết người</style>\n<mspace=0.5em>(4)</mspace> Tốc độ di chuyển kẻ địch: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Lượng sinh lực hồi phục: <style=cIsHealth>-50%</style></style>",
+	   "ECLIPSE_6_DESCRIPTION" : "Bắt đầu ở độ khó Giông Tố.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Sinh lực khởi điểm: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Bán kính Máy Dịch Chuyển: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Sát thương khi rơi từ trên cao: <style=cIsHealth>+100% và sẽ gây chết người</style>\n<mspace=0.5em>(4)</mspace> Tốc độ di chuyển kẻ địch: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Lượng sinh lực hồi phục: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Lượng vàng: <style=cIsHealth>-20%</style></style>",
+	   "ECLIPSE_7_DESCRIPTION" : "Bắt đầu ở độ khó Giông Tố.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Sinh lực khởi điểm: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Bán kính Máy Dịch Chuyển: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Sát thương khi rơi từ trên cao: <style=cIsHealth>+100% và sẽ gây chết người</style>\n<mspace=0.5em>(4)</mspace> Tốc độ di chuyển kẻ địch: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Lượng sinh lực hồi phục: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Lượng vàng: <style=cIsHealth>-20%</style>\n<mspace=0.5em>(7)</mspace> Thời gian hồi chiêu của địch: <style=cIsHealth>-50%</style></style>",
+       "ECLIPSE_8_DESCRIPTION" : "\"Ngươi chỉ được hân hoan nơi ánh sáng tỏa rạng... vì ta cho phép vậy thôi.\" \n\nBắt đầu ở độ khó Giông Tố. <style=cSub>\n\n<mspace=0.5em>(1)</mspace> Sinh lực khởi điểm: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(2)</mspace> Bán kính Máy Dịch Chuyển: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Sát thương khi rơi từ trên cao: <style=cIsHealth>+100% và sẽ gây chết người</style> \n<mspace=0.5em>(4)</mspace> Tốc độ di chuyển kẻ địch: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Lượng sinh lực hồi phục: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> Lượng vàng: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7)</mspace> Thời gian hồi chiêu của địch: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(8)</mspace> Sát thương chịu phải là <style=cIsHealth>sát thương vĩnh viễn</style></style>"
+	}
+}

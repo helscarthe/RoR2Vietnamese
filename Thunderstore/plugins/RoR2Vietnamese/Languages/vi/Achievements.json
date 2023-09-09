@@ -1,0 +1,367 @@
+﻿{
+	"strings":
+	{
+		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} đã hoàn thành <color=#BDE151>{1}</color></color>",
+		"ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>Bạn đã hoàn thành <color=#BDE151>{1}</color></color>",
+		
+		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "Mọt Sách",
+		"ACHIEVEMENT_LOGCOLLECTOR_DESCRIPTION": "Nhặt 10 File thông tin Quái vật hoặc Môi trường.",
+
+		"ACHIEVEMENT_ATTACKSPEED_NAME": "Tốc Chiến",
+		"ACHIEVEMENT_ATTACKSPEED_DESCRIPTION": "Đạt đến tốc độ đánh +200%.",
+		
+		"ACHIEVEMENT_STAYALIVE1_NAME": "Kẻ Sống Sót Cô Độc",
+		"ACHIEVEMENT_STAYALIVE1_DESCRIPTION": "Sống sót 30 phút liên tiếp.",
+		
+		"ACHIEVEMENT_HARDHITTER_NAME": "Đại Trượng Phu",
+		"ACHIEVEMENT_HARDHITTER_DESCRIPTION": "Gây 5000 sát thương chỉ trong 1 đòn.",
+
+		"ACHIEVEMENT_CARRYLUNARITEMS_NAME": "Sùng Bái Mặt Trăng",
+		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Nhặt 5 Nguyệt Phẩm trong cùng một game.",
+
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_NAME": "Trận Chiến Huy Hoàng",
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Sạc đầy Máy Dịch Chuyển khi chỉ còn dưới 10% sinh lực.",
+
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_NAME": "Thượng Nhân",
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_DESCRIPTION": "Đánh bại Boss của Máy Dịch Chuyển sau khi kích hoạt 2 Tượng Thần Núi.",
+
+		"ACHIEVEMENT_COMPLETETELEPORTER_NAME": "Tiến Lên",
+		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Sạc đầy một Máy Dịch Chuyển.",
+
+		"ACHIEVEMENT_COMPLETETHREESTAGES_NAME": "Chiến Binh",
+		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION" : "Không chết một lần nào trên đường đến và sạc đầy Máy Dịch Chuyển thứ 3.",
+
+		"ACHIEVEMENT_DIE5TIMES_NAME": "Cần Học Thêm",
+		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "Chết 5 lần.",
+
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_NAME": "Thử Nghiệm",
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_DESCRIPTION": "Nhặt 5 Trang bị khác nhau.",
+
+		"ACHIEVEMENT_COMPLETE20STAGES_NAME": "Đường Dài",
+		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "Hoàn thành 20 màn trong một game.",
+
+		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "Thần Sát",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "Đánh bại một Boss Tinh Anh ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_KILLTOTALENEMIES_NAME": "Tàn sát",
+		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "Đánh bại 3000 kẻ địch.",
+
+		"ACHIEVEMENT_KILLELITEMONSTER_NAME": "Kẻ Đánh Bại Tinh Anh",
+		"ACHIEVEMENT_KILLELITEMONSTER_DESCRIPTION": "Đánh bại một quái vật Tinh Anh.",
+
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_NAME": "Đã Chứng Thực",
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_DESCRIPTION": "Đánh thắng Máy Dịch Chuyển đầu tiên 5 lần.",
+
+		"ACHIEVEMENT_MAXHEALINGSHRINE_NAME": "Hòa Mình Vào Thiên Nhiên",
+		"ACHIEVEMENT_MAXHEALINGSHRINE_DESCRIPTION": "Nâng cấp Tượng Thảo Mộc tối đa.",
+
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_NAME": "Thợ Máy",
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_DESCRIPTION": "Sửa 30 drone hoặc trụ bắn.",
+
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_NAME": "Được Tiền Đầu Tư!",
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_DESCRIPTION": "Nhặt tổng cộng $30,480 vàng.",
+
+		"ACHIEVEMENT_FINDTIMEDCHEST_NAME": "[BỊ ẨN]",
+		"ACHIEVEMENT_FINDTIMEDCHEST_DESCRIPTION": "Mở Rương Bảo Mật Tính Giờ trên Điểm Tập Kết Delta.",
+
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_NAME": "Mấy Con Cua Quỷ Quái",
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_DESCRIPTION": "Giết 20 Cua Ẩn Sĩ bằng cách đuổi chúng rơi xuống rìa bản đồ.",
+		
+		"ACHIEVEMENT_MAJORMULTIKILL_NAME": "Tất Sát!",
+		"ACHIEVEMENT_MAJORMULTIKILL_DESCRIPTION": "Giết 15 kẻ địch liên tiếp.",
+		
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_NAME": "Tương Thông Ánh Sáng",
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_DESCRIPTION": "Hoàn thành một Thử Thách Lăng Kính.",
+
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_NAME": "Khi Cái Chết Chia Lìa Đôi Ta",
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_DESCRIPTION": "Tìm ra phòng bí mật ở Cống Nước Bỏ Hoang.",
+
+		"ACHIEVEMENT_FREEMAGE_NAME": "Tạm Dừng.",
+		"ACHIEVEMENT_FREEMAGE_DESCRIPTION": "Giải cứu vị survivor bị kẹt trong dòng thời gian.",
+
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_NAME" : "Newtist",
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_DESCRIPTION" : "Tìm ra và kích hoạt 8 Miếu Newt khác nhau.",
+
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_NAME" : "Nơi An Nghỉ Đích Thực",
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_DESCRIPTION" : "Phá hủy bản thân tại Tháp Đá..",
+
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_NAME" : "Hoàn Hảo",
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_DESCRIPTION" : "Sạc đầy Máy Dịch Chuyển mà không dính sát thương.",
+
+		"ACHIEVEMENT_MOVESPEED_NAME" : "Khuyến Khích Lao Nhanh",
+		"ACHIEVEMENT_MOVESPEED_DESCRIPTION" : "Đạt đến tốc độ di chuyển +300% (bao gồm chạy).",
+
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_NAME" : "Bài Cơ Bản",
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_DESCRIPTION" : "Tìm ra 10 vật phẩm trắng khác nhau.",
+
+		"ACHIEVEMENT_FAILSHRINECHANCE_NAME" : "\"Cái Này Bị Lỗi À?\"",
+		"ACHIEVEMENT_FAILSHRINECHANCE_DESCRIPTION" : "Thua Tượng May Rủi 3 lần liên tiếp.",
+
+		"ACHIEVEMENT_LOOPONCE_NAME" : "Deja Vu?",
+		"ACHIEVEMENT_LOOPONCE_DESCRIPTION" : "Vòng lại màn đầu tiên.",
+
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_NAME" : "...Một Cái Nữa Thôi.",
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_DESCRIPTION" : "Sao chép cùng một vật phẩm 7 lần liên tiếp bằng Máy In 3D.",
+
+		"ACHIEVEMENT_KILLBOSSQUICK_NAME" : "Đã Sẵn Sàng",
+		"ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION" : "Đánh bại Boss Máy Dịch Chuyển trong 15 giây.",
+
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_NAME" : "Thuận Tự Nhiên",
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION" : "Đi đến màn thứ 3 và hoàn thành màn mà không nhặt vật phẩm hồi phục nào.",
+
+		"ACHIEVEMENT_FINDDEVILALTAR_NAME": "Lời Dạy Của Nữ Thần",
+		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Tìm thấy Điện Thờ N'kuhana.",
+
+		"ACHIEVEMENT_FINDCLAYDOLLS_NAME": "Lunar Omens",
+		"ACHIEVEMENT_FINDCLAYDOLLS_DESCRIPTION": "Find 10 Clay Dolls. <sprite name=\"WIP\"> This achievement is currently unimplemented. <sprite name=\"WIP\">",
+		
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_NAME": "Kỹ Sư Hoàn Hảo",
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_DESCRIPTION": "Hoàn thành 30 màn.",
+		
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_NAME": "Mất Điện",
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Đánh bại hộ vệ đặc biệt của Bờ Biển Dát Vàng mà không bị mất cột nào.",
+		
+		"ACHIEVEMENT_KILLELITESMILESTONE_NAME": "Hạ Sát",
+		"ACHIEVEMENT_KILLELITESMILESTONE_DESCRIPTION": "Đánh bại 500 quái vật Tinh Anh.",
+		
+		"ACHIEVEMENT_MULTICOMBATSHRINE_NAME": "Kẻ Hiếu Chiến",
+		"ACHIEVEMENT_MULTICOMBATSHRINE_DESCRIPTION": "Hoàn thành 3 Tượng Chiến Đấu trong cùng một màn.",
+		
+		"ACHIEVEMENT_USETHREEPORTALS_NAME": "Khám Phá Vũ Trụ",
+		"ACHIEVEMENT_USETHREEPORTALS_DESCRIPTION": "Tìm thấy và đi qua 3 cánh cổng khác nhau.",
+		
+		"ACHIEVEMENT_RESCUETREEBOT_NAME": "Xưởng Cây Cối",
+		"ACHIEVEMENT_RESCUETREEBOT_DESCRIPTION": "Sửa con rô bốt bị hỏng với Ắc Quy Nhiên Liệu lấy từ Buồng Thoát Khẩn Cấp.",
+
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_NAME": "Biệt Kích: Sấm Rền",
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_DESCRIPTION": "Khi chơi Biệt Kích, ra đòn kết liễu một con Đại Lôi Trùng.",
+
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_NAME": "MUL-T: Diệt Côn Trùng",
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_DESCRIPTION": "Khi chơi MUL-T, đánh bại hai con Bọ Hung Chúa mà không rời vùng Máy Dịch Chuyển.",
+		
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_NAME": "MUL-T: Bắt Được Rồi Nhá!",
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_DESCRIPTION": "Khi chơi MUL-T, ra đòn kết liễu Quỷ Chúa bằng Máy Gia Tốc Hạt Preon.",
+
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_NAME": "MUL-T: Ngày Thứ Bảy",
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_DESCRIPTION": "Khi chơi MUL-T, hoàn thành Vùng Đất Hư Không ở màn 7 hoặc muộn hơn.",
+		
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_NAME": "Thợ Đánh Thuê: Thiên Quỷ",
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_DESCRIPTION": "Khi chơi Thợ Đánh Thuê, không chạm đất 30 giây.",
+		
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_NAME": "Thợ Đánh Thuê: Vô Ảnh",
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_DESCRIPTION": "Khi chơi Thợ Đánh Thuê, hoàn thành một Thử Thách Lăng Kính mà không rơi xuống dưới 100% sinh lực.",
+
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_NAME": "Thợ Đánh Thuê: Vạn Ảnh Kiếm",
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_DESCRIPTION": "Khi chơi Thợ Đánh Thuê, sử dụng 20 kỹ năng trong 10 giây.",
+		
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_NAME": "Nữ Thợ Săn: Xuyên Phong",
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_DESCRIPTION": "Khi chơi Nữ Thợ Săn, vượt qua Điểm Tập Kết Delta hoặc Vùng Đất Cháy Rụi mà không rơi xuống dưới 100% sinh lực.",
+		
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_NAME": "Nữ Thợ Săn: Một Phát Chết Liền",
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_DESCRIPTION": "Khi chơi Nữ Thợ Săn, cầm 12 Xà Beng cùng lúc.",
+		
+		"ACHIEVEMENT_ENGIARMY_NAME": "Kỹ Sư: Có Bạn Bè Vui Hơn",
+		"ACHIEVEMENT_ENGIARMY_DESCRIPTION": "Khi chơi Kỹ Sư, có tổng cộng 12 thuộc hạ cùng lúc.",
+		
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_NAME": "REX: Đi Rừng",
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_DESCRIPTION": "Khi chơi REX, giữ sinh lực dưới 50% suốt một sự kiện Máy Dịch Chuyển.",
+		
+		"ACHIEVEMENT_MAGEFASTBOSS_NAME": "Pháp Thủ: Bốp!",
+		"ACHIEVEMENT_MAGEFASTBOSS_DESCRIPTION": "Khi chơi Pháp Thủ, đánh bại hoàn toàn Boss Máy Dịch Chuyển trong 1 giây.",
+		
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_NAME": "Pháp Thủ: Thả Bom Từ Quỹ Đạo",
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_DESCRIPTION": "Khi chơi Pháp Thủ, giết 15 kẻ địch trước khi chạm đất.",
+		
+		"ACHIEVEMENT_MAGEMULTIKILL_NAME": "Pháp Thủ: Tàn Sát",
+		"ACHIEVEMENT_MAGEMULTIKILL_DESCRIPTION": "Khi chơi Pháp Thủ, giết 20 kẻ địch cùng lúc.",
+		
+		"ACHIEVEMENT_BURNTODEATH_NAME": "Ấm Đến Hết Đời",
+		"ACHIEVEMENT_BURNTODEATH_DESCRIPTION": "Chết cháy 3 lần.",
+		
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_NAME": "Kỹ Sư: Tính Hết Cả Rồi",
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_DESCRIPTION": "Khi chơi Kỹ Sư, đánh bại Boss Máy Dịch Chuyển trong vòng 5 giây kể từ khi nó xuất hiện.",
+		
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Úp Rổ",
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "Khi chơi REX, giết một con Đại Sa Thù Đất Sét bằng cách đẩy nó xuống hố.",
+
+		"ACHIEVEMENT_TREEBOTBIGHEAL_NAME": "REX: Đầy Sức Sống",
+		"ACHIEVEMENT_TREEBOTBIGHEAL_DESCRIPTION": "Khi chơi REX, hồi 1000 sinh lực trong một lần hồi phục.",
+		
+		"ACHIEVEMENT_LOADERSPEEDRUN_NAME": "Thợ Khuân Vác: Ghé Qua",
+		"ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "Khi chơi Thợ Khuân Vác, đi đến Cổng Thiên Linh trong vòng 25 phút.",
+
+		"ACHIEVEMENT_LOADERKILLLOADERS_NAME": "Thợ Khuân Vác: Sân Thunderdome",
+		"ACHIEVEMENT_LOADERKILLLOADERS_DESCRIPTION": "Khi chơi Thợ Khuân Vác, giết ba Thợ Khuân Vác khác trong Phòng Chế Tạo của Thủ Vệ.",
+		
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_NAME": "Biệt Kích: Không Bao Giờ Lạc Lối",
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_DESCRIPTION": "Khi chơi Biệt Kích, đi qua 20 màn trong cùng một game mà không nhặt bất kỳ Nguyệt Phẩm nào.",
+		
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_NAME": "Biệt Kích: Thông Thạo",
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Biệt Kích, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_NAME": "MUL-T: Thông Thạo",
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi MUL-T, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_NAME": "Nữ Thợ Săn: Thông Thạo",
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Nữ Thợ Săn, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_NAME": "Pháp Thủ: Thông Thạo",
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Pháp Thủ, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_NAME": "Thợ Đánh Thuê: Thông Thạo",
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Thợ Đánh Thuê, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_NAME": "REX: Thông Thạo",
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi REX, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_NAME": "Thợ Khuân Vác: Thông Thạo",
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Thợ Khuân Vác, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_NAME": "Acrid: Thông Thạo",
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Acrid, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_NAME": "Kỹ Sư: Thông Thạo",
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Kỹ Sư, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_NAME": "Thuyền Trưởng: Thông Thạo",
+		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Thuyền Trưởng, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_NAME": "Đạo Tặc: Thông Thạo",
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Đạo Tắc, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_NAME": "Điện Xạ Thủ: Thông Thạo",
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi Điện Xạ Thủ, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_NAME": "「Qu?ỷ Hư K??hông』: Thông Thạo",
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_DESCRIPTION": "Khi chơi 「Qu?ỷ Hư K??hông』, thắng game hoặc tự hủy ở Tháp Đá ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Hủy Diệt Rào Cản",
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Giết 15 quái vật boss trong cùng một game.",
+		
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_NAME": "Mất Sóng Dạy Dỗ",
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_DESCRIPTION": "Đánh bại hộ vệ đặc biệt của Tiếng Gọi của Tiên Nữ",
+		
+		"ACHIEVEMENT_BEATARENA_NAME": "...Để Một Mình",
+		"ACHIEVEMENT_BEATARENA_DESCRIPTION": "Làm ổn định Buồng Giam ở Vùng Đất Hư Không.",
+
+		"ACHIEVEMENT_LOADERBIGSLAM_NAME": "Thợ Khuân Vác: Long Trời Lở Đất",
+		"ACHIEVEMENT_LOADERBIGSLAM_DESCRIPTION": "Khi chơi Thợ Khuân Vác, đánh trúng một phát Nắm Đấm Tích Sức ở vận tốc 480km/h hoặc cao hơn.",
+
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_NAME": "Acrid: Dịch Bệnh",
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_DESCRIPTION": "Khi chơi Acrid, gây Độc Tố 1000 lần.",
+
+		"ACHIEVEMENT_AUTOMATIONACTIVATION_NAME": "Kích Hoạt Tự Động Hóa",
+		"ACHIEVEMENT_AUTOMATIONACTIVATION_DESCRIPTION": "Kích hoạt 6 trụ bắn trong cùng một game.",
+
+		"ACHIEVEMENT_CLEANUPDUTY_NAME": "Trực Nhật",
+		"ACHIEVEMENT_CLEANUPDUTY_DESCRIPTION": "Phá 20 viên đá bay ở Thảo Điền Trên Trời.",
+
+		"ACHIEVEMENT_NEVERBACKDOWN_NAME": "Không Lùi Bước",
+		"ACHIEVEMENT_NEVERBACKDOWN_DESCRIPTION": "Không rời vùng Máy Dịch Chuyển đến khi nó sạc xong trong 4 màn liên tiếp.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTBOMB_NAME": "Thử Thách Oán Giận",
+		"ACHIEVEMENT_OBTAINARTIFACTBOMB_DESCRIPTION": "Hoàn thành Thử Thách Oán Giận.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_NAME": "Thử Thách Mệnh Lệnh",
+		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_DESCRIPTION": "Hoàn thành Thử Thách Mệnh Lệnh.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_NAME": "Thử Thách Danh Dự",
+		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_DESCRIPTION": "Hoàn thành Thử Thách Danh Dự.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_NAME": "Thử Thách Bí Ẩn",
+		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_DESCRIPTION": "Hoàn thành Thử Thách Bí Ẩn.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_NAME": "Thử Thách Hỗn Loạn",
+		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_DESCRIPTION": "Hoàn thành Thử Thách Hỗn Loạn.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTGLASS_NAME": "Thử Thách Thủy Tinh",
+		"ACHIEVEMENT_OBTAINARTIFACTGLASS_DESCRIPTION": "Hoàn thành Thử Thách Thủy Tinh.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_NAME": "Thử Thách Bất Hòa",
+		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_DESCRIPTION": "Hoàn thành Thử Thách Bất Hòa.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_NAME": "Thử Thách Tiến Hóa",
+		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_DESCRIPTION": "Hoàn thành Thử Thách Tiến Hóa.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_NAME": "Thử Thách Biến Hình",
+		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_DESCRIPTION": "Hoàn thành Thử Thách Biến Hình.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_NAME": "Thử Thách Hi Sinh",
+		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_DESCRIPTION": "Hoàn thành Thử Thách Hi Sinh.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_NAME": "Thử Thách Hận Thù",
+		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_DESCRIPTION": "Hoàn thành Thử Thách Hận Thù.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_NAME": "Thử Thách Dòng Dõi",
+		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_DESCRIPTION": "Hoàn thành Thử Thách Dòng Dõi.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_NAME": "Thử Thách Bầy Đàn",
+		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_DESCRIPTION": "Hoàn thành Thử Thách Bầy Đàn.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_NAME": "Thử Thách Tử Thần",
+		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_DESCRIPTION": "Hoàn thành Thử Thách Tử Thần.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTWEAKASSKNEES_NAME": "Thử Thách Mảnh Mai",
+		"ACHIEVEMENT_OBTAINARTIFACTWEAKASSKNEES_DESCRIPTION": "Hoàn thành Thử Thách Mảnh Mai.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_NAME": "Thử Thách Linh Hồn",
+		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_DESCRIPTION": "Hoàn thành Thử Thách Linh Hồn.",
+
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_NAME": "Biệt Kích: Siêu Tốc",
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_DESCRIPTION": "Khi chơi Biệt Kích, sạc đầy Máy Dịch Chuyển đầu tiên trước khi đồng hồ điểm 5 phút.",
+
+		"ACHIEVEMENT_CROCOKILLSCAVENGER_NAME": "Acrid: Thuốc Đắng",
+		"ACHIEVEMENT_CROCOKILLSCAVENGER_DESCRIPTION": "Khi chơi Acrid, ra đòn kết liễu Kẻ Trữ Rác.",
+
+		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_NAME": "Nữ Thợ Săn: Xong Việc",
+		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_DESCRIPTION": "Khi chơi Nữ Thợ Săn, khi ném đoản kiếm, trúng bao nhiêu kẻ địch chết bấy nhiêu kẻ địch.",
+
+		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_NAME": "Acrid: Easy Prey",
+		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_DESCRIPTION": "Khi chơi Acrid, ra đồn kết liễu 50 kẻ địch còn 1 sinh lực.",
+
+		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_NAME": "Kỹ Sư: Tổng Bằng Không",
+		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_DESCRIPTION": "Khi chơi Kỹ Sư, sạc đầy Máy Dịch Chuyển khi không còn một con quái nào còn sống.",
+
+		"ACHIEVEMENT_DIE20TIMES_NAME": "Chết Vui Lắm!",
+		"ACHIEVEMENT_DIE20TIMES_DESCRIPTION": "Chết 20 lần.",
+
+		"ACHIEVEMENT_COMPLETEMAINENDING_NAME": "Để Gió Cuốn Đi",
+		"ACHIEVEMENT_COMPLETEMAINENDING_DESCRIPTION": "Trốn thoát khỏi mặt trăng.",
+
+		"ACHIEVEMENT_COMPLETEVOIDENDING_NAME": "Xuống Vực Thẳm",
+		"ACHIEVEMENT_COMPLETEVOIDENDING_DESCRIPTION": "Trốn thoát khỏi Cung Thiên Văn hoặc hoàn thành đợt 50 của Chốn Giả Lập.",
+
+		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_NAME": "Bình Yên",
+		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_DESCRIPTION": "Trốn thoát khỏi mặt trăng ở độ khó Giông Tố.",
+
+		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_NAME": "Thuyền Trưởng: Đáng Từng Xu",
+		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_DESCRIPTION": "Khi chơi Thuyền Trưởng, sửa chữa một con TC-280 Prototype.",
+
+		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_NAME": "Thuyền Trưởng: Du Lịch",
+		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_DESCRIPTION": "Khi chơi Thuyền Trưởng, đi qua 10 môi trường khác nhau trong cùng một game.",
+
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_NAME": "Thuyền Trưởng: Bẹp Dí",
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_DESCRIPTION": "Khi chơi Thuyền Trưởng, giết boss cuối bằng một Trụ Hỗ Trợ.",
+
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_NAME": "Đạo Tặc: Người Đàn Ông Truyền Thống",
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_DESCRIPTION": "Khi chơi Đạo Tặc, sử dụng 'Tắt Đèn' để hồi chiêu thành công 15 lần liên tiếp.",
+
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_NAME": "Đạo Tặc: Xâm Phạm Trái Phép",
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_DESCRIPTION": "Khi chơi Đạo Tặc, giết boss cuối bằng chiêu 'Tắt Đèn'.",
+
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_NAME": "Đạo Tặc: Tàn Ác",
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_DESCRIPTION": "Khi chơi Đạo Tặc, giết một con quái vật đang dính 20 stack Xuất Huyết.",
+
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_NAME": "Điện Xạ Thủ: Hủy Diệt",
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "Khi chơi Điện Xạ Thủ, gây 1,000,000 sát thương với một phát bắn.",
+
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_NAME": "Điện Xạ Thủ: Bách Phát Bách Trúng",
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_DESCRIPTION": "Khi chơi Điện Xạ Thủ, bắn 30 phát súng ngắm liên tiếp không trượt.",
+
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_NAME": "Điện Xạ Thủ: Siêu Xạ Thủ",
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_DESCRIPTION": "Khi chơi Điện Xạ Thủ, giết 3 kẻ địch với 1 phát Siêu Sạc khi đang ở trên không trung.",
+
+		"ACHIEVEMENT__NAME": "",
+		"ACHIEVEMENT__DESCRIPTION": "",
+	}
+}

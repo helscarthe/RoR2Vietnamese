@@ -1,0 +1,206 @@
+{
+	"strings":
+	{
+		"OPTION_HEADER_GAMEPLAY": "VỀ GAME",
+		"OPTION_HEADER_KEYBINDING": "BÀN PHÍM + CHUỘT",
+		"OPTION_HEADER_CONTROLLER": "TAY CẦM",
+		"OPTION_HEADER_AUDIO": "ÂM THANH",
+		"OPTION_HEADER_VIDEO": "HÌNH ẢNH",
+		"OPTION_HEADER_GRAPHICS": "ĐỒ HỌA",
+		"OPTION_HEADER_OTHER" : "Khác",
+		"OPTION_HEADER_NETWORK": "Mạng",
+
+		"OPTION_OFF": "Tắt",
+		"OPTION_ON": "Bật",
+		"OPTION_LOW": "Thấp",
+		"OPTION_MEDIUM": "Vừa",
+		"OPTION_HIGH": "Cao",
+		"OPTION_ULTRA": "Rất cao",
+		"OPTION_CUSTOM": "Tùy chỉnh",
+
+		"OPTION_APPLY": "Áp dụng",
+		"OPTION_REVERT": "Về như cũ",
+		"OPTION_BACK": "Quay lại",
+		"OPTION_ACCEPT": "Đồng ý",
+
+		"OPTION_AUTOREVERT_DIALOG_DESCRIPTION": "Quay lại như cũ trong {0} giây. Đồng ý thay đổi tùy chọn?",
+		
+
+
+		"OPTION_MASTERVOLUME": "Âm lượng Tổng:",
+		"OPTION_MASTERVOLUME_DESCRIPTION": "Âm lượng của game nói chung.",
+
+		"OPTION_MUSICVOLUME": "Âm lượng Nhạc:",
+		"OPTION_MUSICVOLUME_DESCRIPTION": "Âm lượng của nhạc.",
+
+		"OPTION_SFXVOLUME": "Âm lượng SFX:",
+		"OPTION_SFXVOLUME_DESCRIPTION": "Âm lượng của các hiệu ứng âm thanh trong game.",
+
+		"OPTION_AUDIOFOCUS": "Tắt âm khi thoát ra ngoài:",
+		"OPTION_AUDIOFOCUS_DESCRIPTION" : "Liệu game có nên phát tiếng khi người dùng đang dùng ứng dụng khác.",
+
+
+
+		"OPTION_VSYNC": "V-Sync:",
+		"OPTION_VSYNC_DESCRIPTION": "Sửa lỗi xé hình bằng cách đồng bộ tốc độ khung hình của game với tốc độ khung hình của máy. Chỉ nên bật nếu bạn thấy game bị xé hình.",
+		"OPTION_VSYNC_NONE": "Tắt",
+		"OPTION_VSYNC_EVERYOTHER": "So le",
+		"OPTION_VSYNC_EVERY": "Luôn luôn",
+
+		"OPTION_FPSLIMIT" : "FPS Tối đa",
+		"OPTION_FPSLIMIT_DESCRIPTION": "Đặt mức FPS tối đa để đảm bảo tốc độ khung hình đều.",
+		"OPTION_FPSLIMIT_UNCAPPED" : "Không giới hạn",
+
+		"OPTION_RESOLUTION" : "Độ phân giải",
+		"OPTION_RESOLUTION_DESCRIPTION" : "Độ phân giải và tốc độ khung hình của game. Đây thường là một trong những tùy chọn nên giảm nhất để tăng hiệu suất của các máy tính đời thấp.",
+
+		"OPTION_FULLSCREEN" : "Toàn màn hình:",
+		"OPTION_FULLSCREEN_DESCRIPTION": "Chọn game chạy ở chế độ toàn màn hình hoặc cửa sổ.",
+		"OPTION_FULLSCREEN_FULLSCREEN": "Toàn màn hình",
+		"OPTION_FULLSCREEN_WINDOWED": "Cửa sổ",
+
+		"OPTION_SCREENSCALE": "Screen Scale:",
+		"OPTION_SCREENSCALE_DESCRIPTION": "Reduce the internal resolution of the screen. Lower settings will improve performance dramatically.",
+
+		"OPTION_GAMMA": "Tăng Gamma",
+		"OPTION_GAMMA_DESCRIPTION": "Độ sáng của một điểm ảnh. Thay đổi để làm game sáng hoặc tối hơn.",
+
+		"OPTION_HUDSCALE" : "Tỉ lệ HUD",
+		"OPTION_HUDSCALE_DESCRIPTION": "Tăng hoặc giảm kích thước của các phần tử UI trong game, như cột sinh lực hoặc các biểu tượng.",
+
+
+
+
+		"OPTION_SHADOW_TYPE": "Loại đổ bóng:",
+		"OPTION_SHADOW_TYPE_DESCRIPTION": "Xác định nên dùng loại đổ bóng nào. Đổ bóng mềm sẽ mịn hơn, nhưng cần xử lý nhiều hơn. Tắt đổ bóng sẽ cải thiện hiệu năng đáng kể.",
+		"OPTION_SHADOW_TYPE_OFF": "Tắt",
+		"OPTION_SHADOW_TYPE_HARDONLY": "Cứng",
+		"OPTION_SHADOW_TYPE_ALL": "Mềm",
+
+		"OPTION_SHADOW_QUALITY": "Độ phân giải đổ bóng:",
+		"OPTION_SHADOW_QUALITY_DESCRIPTION": "Chọn càng cao thì bóng càng sắc nét. Giảm bớt để cải thiện hiệu năng.",
+
+		"OPTION_SHADOW_CASCADE": "Ánh xạ bóng đổ xa dần:",
+		"OPTION_SHADOW_CASCADE_DESCRIPTION": "Số ánh xạ bóng. Chọn càng cao thì bóng càng sắc nét. Giảm bớt để cải thiện hiệu năng.",
+
+		"OPTION_SHADOW_DISTANCE": "Khoảng cách vẽ bóng:",
+		"OPTION_SHADOW_DISTANCE_DESCRIPTION": "Vẽ bóng tối đa cách bao xa. Giảm bớt để cải thiện hiệu năng.",
+
+		"OPTION_TEXTURE_RESOLUTION": "Độ phân giải vật liệu:",
+		"OPTION_TEXTURE_RESOLUTION_DESCRIPTION": "Kiểm soát độ phân giải và chất lượng của tất cả các phần tử trong game. Độ phân giải càng cao thì càng sắc nét. Giảm bớt để cải thiện hiệu năng.",
+		"OPTION_TEXTURE_RESOLUTION_FULL": "Nguyên",
+		"OPTION_TEXTURE_RESOLUTION_HALF": "Nửa",
+		"OPTION_TEXTURE_RESOLUTION_QUARTER": "1/4",
+		"OPTION_TEXTURE_RESOLUTION_EIGHTH": "1/8",
+
+		"OPTION_ANISOTROPIC_FILTERING": "Anisotropic Filtering:",
+		"OPTION_ANISOTROPIC_FILTERING_DESCRIPTION": "Cải thiện độ sắc nét của các vật thể khi nhìn ở góc nhọn. Giảm bớt để cải thiện hiệu năng GPU.",
+
+		"OPTION_VFX_BIAS": "Tỉ lệ VFX tối đa:",
+		"OPTION_VFX_BIAS_DESCRIPTION": "Bớt các hiệu ứng đồ họa ở những nơi có nhiều hiệu ứng. Giảm bớt để cải thiện hiệu năng CPU và GPU, nhưng các hiệu ứng đồ họa có thể sẽ biến mất.",
+
+		"OPTION_LOD_BIAS": "Khoảng LOD:",
+		"OPTION_LOD_BIAS_DESCRIPTION": "Khoảng cách thay đổi LOD. Giảm bớt để cải thiện hiệu năng, nhưng có thể sẽ có hiện tượng đồ vật tự nhiên xuất hiện.",
+
+		"OPTION_MAX_LOD": "LOD tối đa:",
+		"OPTION_MAX_LOD_DESCRIPTION": "Giá trị LOD cao nhất game sẽ sử dụng. Giảm bớt để cải thiện hiệu năng, nhưng có thể sẽ có hiện tượng đồ vật tự nhiên xuất hiện, và chất lượng đồ họa sẽ giảm mạnh.",	
+
+		"OPTION_SOFTPARTICLES": "Particle mềm:",
+		"OPTION_SOFTPARTICLES_DESCRIPTION": "Bật hệ thống trộn particle dựa trên khoảng cách để có hiệu ứng particle mượt hơn. Tắt để cải thiện hiệu năng GPU.",
+		
+		"OPTION_FOLIAGEWIND": "Gió:",
+		"OPTION_FOLIAGEWIND_DESCRIPTION": "Bật để cho cây cối đung đưa. Tắt để cải thiện hiệu năng GPU và CPU.",
+		
+		"OPTION_BLOOM": "Bloom:",
+		"OPTION_BLOOM_DESCRIPTION": "Cho phép các điểm ánh cháy sáng để các nguồn sáng có hào quang. Tắt để cải thiện hiệu năng GPU.",
+
+		"OPTION_AO": "SSAO:",
+		"OPTION_AO_DESCRIPTION": "Làm các góc tối đi để mô phỏng ánh sáng dội lại. Tắt để cải thiện đáng kể hiệu năng GPU.",
+
+		"OPTION_MOTIONBLUR": "Chuyển động mờ:",
+		"OPTION_MOTIONBLUR_DESCRIPTION": "Mô phỏng hiệu ứng làm mờ các vật thể khi chúng di chuyển. Tắt để cải thiện hiệu năng GPU.",
+
+		"OPTION_SOBEL": "Làm sáng cạnh:",
+		"OPTION_SOBEL_DESCRIPTION": "Bật một hiệu ứng sáng cạnh để dễ phân biệt các đối tượng hơn. Tắt để cải thiện hiệu năng GPU.",
+
+		"OPTION_CORPSE_DISPOSAL": "Dọn xác",
+		"OPTION_CORPSE_DISPOSAL_DESCRIPTION": "Cách xử lý dọn xác. Dọn tức thì sẽ đỡ tốn hiệu năng, nhưng sẽ làm cho xác có thể biến mất kể cả khi chúng đang ở trên màn hình.",
+		"OPTION_CORPSE_DISPOSAL_HARD": "Tức thì",
+		"OPTION_CORPSE_DISPOSAL_OUTOFSIGHT":"Ẩn",
+
+		"OPTION_MAX_CORPSE": "Số xác tối đa",
+		"OPTION_MAX_CORPSE_DESCRIPTION": "Giới hạn số xác có thể có trên màn chơi. Giảm bớt để cải thiện hiệu năng.",
+		
+		"OPTION_MSAA": "Khử răng cưa UI:",
+		"OPTION_MSAA_DESCRIPTION": "Làm các phần tử UI mượt hơn bằng MSAA. Giảm bớt để cải thiện hiệu năng GPU.",
+
+
+
+		"OPTION_STICK_LOOK_SENSITIVITY": "<style=cUserSetting>Độ nhạy camera</style>",
+		"OPTION_STICK_LOOK_SENSITIVITY_DESCRIPTION": "Tốc độ di chuyển của camera tương đương với tay cầm.",
+		"OPTION_STICK_LOOK_SCALE_X": "<style=cUserSetting>Tốc độ camera ngang</style>",
+		"OPTION_STICK_LOOK_SCALE_X_DESCRIPTION": "Tốc độ di chuyển ngang của camera.",
+		"OPTION_STICK_LOOK_SCALE_Y": "<style=cUserSetting>Tốc độ camera dọc</style>",
+		"OPTION_STICK_LOOK_SCALE_Y_DESCRIPTION": "Tốc độ di chuyển dọc của camera.",
+		"OPTION_STICK_LOOK_INVERT_X": "<style=cUserSetting>Đảo chiều camera ngang</style>",
+		"OPTION_STICK_LOOK_INVERT_X_DESCRIPTION": "Đảo chiều ngang của camera.",
+		"OPTION_STICK_LOOK_INVERT_Y": "<style=cUserSetting>Đảo chiều camera dọc</style>",
+		"OPTION_STICK_LOOK_INVERT_Y_DESCRIPTION": "Đảo chiều dọc của camera.",
+		"OPTION_GAMEPAD_VIBRATION_SCALE": "<style=cUserSetting>Độ mạnh rung</style>",
+		"OPTION_GAMEPAD_VIBRATION_SCALE_DESCRIPTION": "Tay cầm rung mạnh cỡ nào.",
+
+
+
+		"OPTION_MOUSE_LOOK_SENSITIVITY": "<style=cUserSetting>Độ nhạy camera</style>",
+		"OPTION_MOUSE_LOOK_SENSITIVITY_DESCRIPTION": "Tốc độ di chuyển của camera tương đương với chuột.",
+		"OPTION_MOUSE_LOOK_SCALE_X": "<style=cUserSetting>Tốc độ camera ngang</style>",
+		"OPTION_MOUSE_LOOK_SCALE_X_DESCRIPTION": "Tốc độ di chuyển ngang của camera.",
+		"OPTION_MOUSE_LOOK_SCALE_Y": "<style=cUserSetting>Tốc độ camera dọc</style>",
+		"OPTION_MOUSE_LOOK_SCALE_Y_DESCRIPTION": "Tốc độ di chuyển dọc của camera.",
+		"OPTION_MOUSE_LOOK_INVERT_X": "<style=cUserSetting>Đảo chiều camera ngang</style>",
+		"OPTION_MOUSE_LOOK_INVERT_X_DESCRIPTION": "Đảo chiều ngang của camera.",
+		"OPTION_MOUSE_LOOK_INVERT_Y": "<style=cUserSetting>Đảo chiều camera dọc</style>",
+		"OPTION_MOUSE_LOOK_INVERT_Y_DESCRIPTION": "Đảo chiều dọc của camera.",
+		
+
+
+		"OPTION_SCREENSHAKE_SCALE": "<style=cUserSetting>Độ rung màn hình</style>",
+		"OPTION_SCREENSHAKE_SCALE_DESCRIPTION": "Rung màn hình mạnh cỡ nào.",
+
+		"OPTION_DAMAGENUMBERS": "Hiển thị sát thương",
+		"OPTION_DAMAGENUMBERS_DESCRIPTION": "Hiển thị số sát thương khi đánh trúng.",
+
+		"OPTION_SPRINT_SENSITIVITY_REDUCTION": "Giảm độ nhạy khi chạy",
+		"OPTION_SPRINT_SENSITIVITY_REDUCTION_DESCRIPTION": "Giảm độ nhạy của chuột/tay cầm khi đang chạy.",
+
+		"OPTION_HUD": "Bật HUD",
+		"OPTION_HUD_DESCRIPTION": "Bật HUD trong game, gồm cột máu, các biểu tượng vật phẩm, các biểu tượng kỹ năng.",
+
+		"OPTION_EXP_AND_MONEY_EFFECTS": "Hiệu ứng kinh nghiệm và tiền",
+		"OPTION_EXP_AND_MONEY_EFFECTS_DESCRIPTION": "Bật hiệu ứng particle cho kinh nghiệm và tiền.",
+
+		"OPTION_DETAILED_DESCRIPTION" : "Detailed Item Descriptions",
+		"OPTION_DETAILED_DESCRIPTION_DESCRIPTION" : "Enables detailed Item and Equipment descriptions in-game.",
+
+		"OPTION_SCREEN_DISTORTION" : "Bóp méo màn hình",
+		"OPTION_SCREEN_DISTORTION_DESCRIPTION" : "Bật các hiệu ứng bóp méo màn hình.",
+
+
+
+		"OPTION_STEAM_RELAY_SERVER": "Steam Traffic Relay",
+		"OPTION_STEAM_RELAY_SERVER_DESCRIPTION": "By default, Steam is allowed to deliver your network traffic to other players via relay server. This is either to circumvent direct connection issues or to provide a potentially faster network route. Disabling this option will prevent your traffic from being delivered via relay server.",
+		"OPTION_INTRO_SKIP": "Skip Startup Intro",
+		"OPTION_INTRO_SKIP_DESCRIPTION": "Skips the intro cutscene that plays on startup.",
+
+		"OPTION_EOS_CROSSPLAY_TOGGLE": "Bật chế độ chơi chéo Epic Games/Steam",
+
+		"OPTION_REBIND_DIALOG_TITLE": "Cài lại phím...",
+		"OPTION_REBIND_DIALOG_DESCRIPTION": "Nhấn phím bạn muốn cài cho chức năng {0}. \nCòn {1:0} giây.",
+		
+		"OPTION_REBIND_CANCELLED_DIALOG_DESCRIPTION": "Đã hủy cài lại phím.",
+		
+		"SETTINGS_PROFILE_NAME_FORMAT": "Cài đặt - <style=cUserSetting>{0}</style>",
+
+		"OPTION_AUTOREVERT_DIALOG_TITLE" : "Lưu thay đổi?",
+	}
+}

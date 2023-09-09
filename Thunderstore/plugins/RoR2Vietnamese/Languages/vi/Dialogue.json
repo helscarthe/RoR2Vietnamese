@@ -1,0 +1,69 @@
+{
+	"strings": {
+		"BROTHER_SPAWN_PHASE1_1": "Cầu xin đi.",
+		"BROTHER_SPAWN_PHASE1_2": "Quỳ xuống.",
+		"BROTHER_SPAWN_PHASE1_3": "Chết đi.",
+		"BROTHER_SPAWN_PHASE1_4": "Tan xác đi.",
+
+		"BROTHER_DAMAGEDEALT_1": "Đổ máu cho ta.",
+		"BROTHER_DAMAGEDEALT_2": "Giờ là lúc để ngươi sợ hãi đấy.",
+		"BROTHER_DAMAGEDEALT_3": "Yếu ớt.",
+		"BROTHER_DAMAGEDEALT_4": "Mảnh mai - và dễ vỡ.",
+		"BROTHER_DAMAGEDEALT_5": "Ngươi chẳng là gì.",
+		"BROTHER_DAMAGEDEALT_6": "Mistake.",
+		"BROTHER_DAMAGEDEALT_7": "Gào thét đi, bọn sâu bọ.",
+		"BROTHER_DAMAGEDEALT_8": "Tan xác đi, thứ thấp hèn.",
+		"BROTHER_DAMAGEDEALT_9": "Quá chậm.",
+		"BROTHER_DAMAGEDEALT_10": "Cơ thể của ngươi sẽ vỡ thành trăm mảnh.",
+
+		"BROTHER_KILL_1": "Về với đất đi.",
+		"BROTHER_KILL_2": "Quỳ xuống, sâu bọ.",
+		"BROTHER_KILL_3": "Chết đi, sâu bọ.",
+		"BROTHER_KILL_4": "Chết đi, thứ yếu đuối.",
+		"BROTHER_KILL_5": "Ngươi giờ chỉ là quá khứ thôi.",
+
+		"BROTHER_SEE_HERETIC_1": "Ngươi sẽ hối hận vì đến đây, Kẻ Dị Giáo ạ.",
+		"BROTHER_SEE_HERETIC_2": "Chết lần nữa đi, Kẻ Dị Giáo.",
+
+		"BROTHER_KILL_HERETIC_1": "Trở về với cái chết phanh thây của ngươi đi, Dị Giáo.",
+		"BROTHER_KILL_HERETIC_2": "Chết lần nữa đi, Dị Giáo.",
+
+		"BROTHER_KILL_MECHANICAL_1": "Thứ tạo vật hèn kém. Hỏng hóc.",
+		"BROTHER_KILL_MECHANICAL_2": "Phế liệu cũ nát.",
+		"BROTHER_KILL_MECHANICAL_3": "Ta tháo rời ngươi ra thành từng mảnh.",
+
+		"BROTHERHURT_DAMAGEDEALT_1": "ĐỔ MÁU CHO TA.",
+		"BROTHERHURT_DAMAGEDEALT_2": "GÀO THÉT ĐI.",
+		"BROTHERHURT_DAMAGEDEALT_3": "ĐỘNG LỰC CỦA NGƯƠI ĐÂU RỒI?",
+		"BROTHERHURT_DAMAGEDEALT_4": "THỨ SỨC MẠNH PHÙ DU.",
+		"BROTHERHURT_DAMAGEDEALT_5": "MẢNH MAI.",
+		"BROTHERHURT_DAMAGEDEALT_6": "VỠ NÁT ĐI.",
+		"BROTHERHURT_DAMAGEDEALT_7": "THỨ SỨC MẠNH GIẢ TẠO.",
+		"BROTHERHURT_DAMAGEDEALT_8": "KIỆT QUỆ ĐI.",
+		"BROTHERHURT_DAMAGEDEALT_9": "CHẾT ĐI, ĐỒ SÂU BỌ.",
+		"BROTHERHURT_DAMAGEDEALT_10": "NGƯƠI CHẲNG LÀ GÌ KHI THIẾU MẤY THỨ TRANG SỨC RẺ MẠT NÀY.",
+
+		"BROTHERHURT_KILL_1": "CHẾT ĐI.",
+		"BROTHERHURT_KILL_2": "YẾU ỚT.",
+		"BROTHERHURT_KILL_3": "VÔ DỤNG.",
+		"BROTHERHURT_KILL_4": "NHƯ TA ĐÃ ĐOÁN...",
+		"BROTHERHURT_KILL_5": "SÂU BỌ.",
+
+		"BROTHERHURT_DEATH_1": "KHÔNG... KHÔNG PHẢI BÂY GIỜ...",
+		"BROTHERHURT_DEATH_2": "TẠI SAO... SAO PHẢI LÀ BÂY GIỜ...?",
+		"BROTHERHURT_DEATH_3": "KHÔNG... KHÔNG...!",
+		"BROTHERHURT_DEATH_4": "EM TRAI... CỨU ANH...!",
+		"BROTHERHURT_DEATH_5": "THẾ GIỚI NÀY ĐANG TỐI DẦN... EM TRAI... ANH KHÔNG THẤY EM... EM Ở ĐÂU...?",
+		"BROTHERHURT_DEATH_6": "EM TRAI... TA MONG... CHÚNG TA SẼ LÀM ĐƯỢC... LẦN SAU...",
+
+		"BROTHERHURT_SEE_TITANGOLD_1": "HỘ VỆ KIA...? KHÔNG THỂ NÀO...!",
+		"BROTHERHURT_SEE_TITANGOLD_2": "CON HỘ VỆ CHẾT TIỆT...!",
+		"BROTHERHURT_SEE_TITANGOLD_AND_HERETIC_1": "KẺ DỊ GIÁO? HỘ VỆ KIA? NHƯNG LÀM SAO LẠI CÓ THỂ NHƯ VẬY? AI SAI KHIẾN NGƯƠI HẢ, ĐỒ SÂU BỌ?",
+
+		"BROTHERHURT_KILL_TITANGOLD_1": "NGƯƠI KHÔNG THỂ TRÁI LỆNH TA, HỠI HỘ VỆ.",
+		"BROTHERHURT_KILL_TITANGOLD_2": "VỀ VỚI ĐẤT ĐI, HỘ VỆ.",
+
+		"BROTHERHURT_KILL_HERETIC_1": "PHANH THÂY LẦN NỮA ĐI, DỊ GIÁO.",
+		"BROTHERHURT_KILL_HERETIC_2": "CHẾT LẦN NỮA ĐI, DỊ GIÁO.",
+	}
+}
